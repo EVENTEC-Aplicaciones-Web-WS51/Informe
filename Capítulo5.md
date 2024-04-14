@@ -93,7 +93,7 @@ Link del Landing Page: https://stxfxno.github.io/MyEvent/myevent.html
                 </tr>
                 <tr>
                     <td>Attendees (to planning meeting)</td>
-                    <td>/ / Quispe Tipo, Godofredo /</td>
+                    <td>/ / Quispe Tipo, Godofredo /Luis Mario, Gonzales Anaya / Jeremi Jose, Antonio Fretel / Luis Alejandro, Zárate Gamarra</td>
                 </tr>
                 <tr>
                     <td>Sprint n – 1 Review Summary</td>
