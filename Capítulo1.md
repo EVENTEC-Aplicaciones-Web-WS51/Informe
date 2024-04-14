@@ -91,6 +91,8 @@ Luis Alejandro, Zárate Gamarra
                     </p>
                 </p>
                 <li><strong>Jeremi Jose Antonio Fretel</strong></li>
+                <p><strong>TB1</strong></p>
+                <p>En el proyecto me encargue de comentar y explicar los métodos junto a las apps que utilizamos en todo el proyecto, por eso me encargue del Software Configuration Management y sus implementaciones, entre ellos está el Software Development Environment Configuration, Source Code Management, Source Code Style Guide & Conventions y por último el Software Deployment Configuration.</p>
                 <li><strong>Luis Alejandro Zárate Gamarra</strong>
                   <p>
                     <strong>TB1</strong>
@@ -125,6 +127,12 @@ Luis Alejandro, Zárate Gamarra
                     <p>
                         <strong>TB1</strong>
                         <p>En el proyecto de ingeniería, comuniqué de manera objetiva y clara ideas y resultados por escrito a audiencias diversas. Esto incluyó la elaboración de documentos como User Personas, una User Task Matrix, informes de entrevistas y Diagramas de Clases y de Base de Datos. Mi habilidad para transmitir información técnica fue crucial para el éxito del proyecto.</p>
+                    </p>
+                </li>
+                    <li><strong>Jeremi Jose Antonio Fretel</strong>
+                    <p>
+                        <strong>TB1</strong>
+                        <p>Tuve la responsabilidad de comentar y explicar los métodos y aplicaciones que utilizamos a lo largo de todo el proyecto. Por lo tanto, me ocupé del Control de Configuración de Software y sus implementaciones, que incluyen la Configuración del Entorno de Desarrollo de Software, la Gestión del Código Fuente, la Guía de Estilo y Convenciones del Código Fuente, y por último, la Configuración del Despliegue de Software.</p>
                     </p>
                 </li>
                 </ul>
