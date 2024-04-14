@@ -74,15 +74,7 @@ Luis Alejandro, Zárate Gamarra
         <td>
             <ul style="list-style-type: none;">
                 <li><strong>Godofredo Quispe Tipo</strong></li>
-                <p>
-                    <strong>TB1</strong>
-                    <p>Sprint 1</p>
-                    <p> Development Evidence for Sprint Review</p>
-                    <p> Testing Suite Evidence for Sprint Review</p>
-                    <p> Execution Evidence for Sprint Review</p>
-                    <p>Services Documentation Evidence for Sprint Review</p>
-                    <p></p>
-                </p>
+                <p>De acuerdo con el objetivo de la entrevista, se evidenció una comunicación clara entre los potenciales usuarios de la plataforma, lo cual permitió verificar los requisitos y necesidades para su mejora e implementación en la aplicación web. Este proceso se refleja en los sprint, donde se han incorporado prácticamente todas las necesidades identificadas por los usuarios o potenciales usuarios.</p>
                 <li><strong>Luis Mario Gonzales Anaya</strong></li>
                 <p>
                     <strong>TB1</strong>
