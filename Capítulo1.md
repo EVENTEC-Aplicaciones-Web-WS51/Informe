@@ -127,7 +127,12 @@ Luis Alejandro, Zárate Gamarra
                         <p>Tuve la responsabilidad de comentar y explicar los métodos y aplicaciones que utilizamos a lo largo de todo el proyecto. Por lo tanto, me ocupé del Control de Configuración de Software y sus implementaciones, que incluyen la Configuración del Entorno de Desarrollo de Software, la Gestión del Código Fuente, la Guía de Estilo y Convenciones del Código Fuente, y por último, la Configuración del Despliegue de Software.</p>
                     </p>
                 </li>
-                </ul>
+                    <li><strong>Godofredo Quispe Tipo</strong>
+                    <p>
+                        <strong>TB1</strong>
+                        <p>En esta etapa, se tradujeron los requisitos de los usuarios a través de Figma, con el objetivo de comprender sus necesidades y garantizar que la aplicación sea altamente intuitiva para ellos. Además, se trabajó en asegurar que la interfaz sea coherente y se alinee adecuadamente con la visión original del proyecto.</p>
+                    </p>
+                </li>
         </td>
         <td>
             <p>
