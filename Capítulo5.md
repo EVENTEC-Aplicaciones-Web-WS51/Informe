@@ -269,10 +269,3 @@ Registro de Evento Confirmado:
 <h3>5.2.1.8 Team Collaboration Insights during Sprint.</h3>
 <img src="./imagenes/commits.png">
 <img src="./imagenes/insights.png">
-
-<h2>5.3 Validation Interviews</h2>
-<h3>5.3.1 Diseño de Entrevistas</h2>
-<h3>5.3.2 Registro de Entrevistas</h3>
-<h3>5.3.3 Evaluaciones según heurísticas</h3>
-
-<h2>5.4 Video About-the-Product</h2>
