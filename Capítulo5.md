@@ -63,6 +63,7 @@ Link del Landing Page: https://stxfxno.github.io/MyEvent/myevent.html
 <p>Luego de esperar cierto tiempo, esperamos a que nuestra página este subida a GitHub Pages, si sale para visitar nuestro sitio web es porque lo hicimos correctamente.</p>
 <img src="./imagenes/paso3-parte3.png"/>
 <h2>5.2 Product Implementation & Deployment</h2>
+<h3>5.2.1. Sprint 1
 <h3>5.2.1.1 Sprint Planning 1</h3>
  <table>
             <thead>
@@ -269,3 +270,206 @@ Registro de Evento Confirmado:
 <h3>5.2.1.8 Team Collaboration Insights during Sprint.</h3>
 <img src="./imagenes/commits.png">
 <img src="./imagenes/insights.png">
+
+<h3>5.2.2 Sprint 2</h3>
+<h3>5.2.1.1 Sprint Planning 2</h3>
+ <table>
+            <thead>
+                <tr>
+                    <td>Sprint #</td>
+                    <td>Sprint 2</td>
+                </tr>
+                <tr>
+                    <td colspan="2">Sprint Planning Background</td>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>Date</td>
+                    <td>3/05/2024</td>
+                </tr>
+                <tr>
+                    <td>Time</td>
+                    <td>00:00 am</td>
+                </tr>
+                <tr>
+                    <td>Location</td>
+                    <td>Google Meet</td>
+                </tr>
+                <tr>
+                    <td>Prepared By</td>
+                    <td>Godofredo Quispe Tipo</td>
+                </tr>
+                <tr>
+                    <td>Attendees (to planning meeting)</td>
+                    <td>/ / Quispe Tipo, Godofredo / Luis Mario, Gonzales Anaya / Jeremi Jose, Antonio Fretel / Luis Alejandro, Zárate Gamarra //</td>
+                </tr>
+                <tr>
+                    <td>Sprint n – 2 Review Summary</td>
+                    <td>El primer sprint se centró en establecer la base para el diseño de la aplicación web y la implementación del CRUD de boletos. Se completaron todas las tareas asignadas, y se logró el objetivo del sprint, con todas las secciones de la landing page diseñadas e implementadas.</td>
+                </tr>
+                <tr>
+                    <td>Sprint n – 2 Retrospective Summary</td>
+                    <td>En retrospectiva del Sprint anterior, el equipo ha logrado un progreso significativo en el desarrollo de la landing page y el diseño del Front de la aplicación web, así como en la implementación del CRUD de la venta de entradas.</td>
+                </tr>
+                <tr>
+                    <td colspan="2">Sprint Goal & User Stories</td>
+                </tr>
+                <tr>
+                    <td>Sprint 2 Goal</td>
+                    <td>Implementar el frontend, con varios componentes.</td>
+                </tr>
+                <tr>
+                    <td>Sprint 2 Velocity</td>
+                    <td>8</td>
+                </tr>
+                <tr>
+                    <td>Sum of Story Points</td>
+                    <td>12</td>
+                </tr>
+            </tbody>
+        </table>
+
+<h3>5.2.2.2 Sprint Backlog 2</h3>
+<P>En este Sprint Backlog el grupo se enfoco en realizar el Front de la aplicación web junto con todas sus funcionalidades.</P>
+<table>
+   <tr>
+    <th>Sprint #</th>
+    <th>Sprint 2</th>
+  </tr>
+   <tr>
+    <th>User Story</th>
+    <th></th>
+    <th>Work-Item/Task</th>
+  </tr>
+  <tr>
+    <th>Id</th>
+    <th>Title</th>
+    <th>Id</th>
+    <th>Title </th>
+    <th>Description</th>
+    <th>Estimation(Hours)</th>
+    <th>Assigned To</th>
+    <th>Status (To-do / InProcess / ToReview / Done)</th>
+  </tr>
+  <tr>
+    <th>US-</th>
+    <th></th>
+    <th>W-</th>
+    <th></th>
+    <th></th>
+    <th> hours</th>
+    <th></th>
+    <th></th>
+  </tr>
+  <tr>
+    <th>US-</th>
+    <th></th>
+    <th>W-</th>
+    <th></th>
+    <th></th>
+    <th></th>
+    <th></th>
+    <th></th>
+  </tr>
+  <tr>
+    <th>US-</th>
+    <th></th>
+    <th>W-</th>
+    <th></th>
+    <th></th>
+    <th></th>
+    <th></th>
+    <th></th>
+  </tr>
+  <tr>
+    <th>US-</th>
+    <th></th>
+    <th>W-</th>
+    <th></th>
+    <th></th>
+    <th></th>
+    <th></th>
+    <th></th>
+  </tr>
+  <tr>
+    <th>US-</th>
+    <th></th>
+    <th>W-</th>
+    <th></th>
+    <th></th>
+    <th></th>
+    <th></th>
+    <th></th>
+  </tr>
+</table>
+
+<h3>5.2.2.3 Development Evidence for Sprint Review</h4>
+<table>
+   <tr>
+    <th>Repository</th>
+    <th>Branch</th>
+    <th>Commit ID</th>
+    <th>Commit Message</th>
+    <th>Commit ed on (Date)</th>
+  </tr>
+  <tr>
+    <th></th>
+    <th></th>
+    <th></th>
+    <th></th>
+    <th></th>
+  </tr>
+  <tr>
+    <th></th>
+    <th></th></th>
+    <th></th>
+    <th></th>
+    <th></th>
+  </tr>
+   <tr>
+    <th></th>
+    <th></th>
+    <th></th>
+    <th></th>
+    <th></th>
+  </tr>
+  </tr>
+   <tr>
+    <th></th>
+    <th></th>
+    <th></th>
+    <th></th>
+    <th></th>
+  </tr>
+  </tr>
+   <tr>
+    <th></th>
+    <th></th>
+    <th></th>
+    <th></th>
+    <th></th>
+  </tr>
+  </table>
+<h3>5.2.1.4 Testing Suite Evidence for Sprint Review</h4>
+<p></p>
+<h3>5.2.1.5 Execution Evidence for Sprint Review.</h3>
+Registro de usuario:
+
+Ingreso de usuario:
+
+Ingreso de fecha de publicacion del evento:
+
+Añadiendo evento:
+
+Descripcion del Evento:
+
+Registro de Evento Confirmado:
+
+
+<h3>5.2.1.6 Services Documentation Evidence for Sprint Review.</h3>
+<p></p>
+<h3>5.2.1.7 Software Deployment Evidence for Sprint Review.</h3>
+
+<h3>5.2.1.8 Team Collaboration Insights during Sprint.</h3>
+
