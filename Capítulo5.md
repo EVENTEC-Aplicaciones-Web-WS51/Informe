@@ -451,9 +451,9 @@ Registro de Evento Confirmado:
     <th></th>
   </tr>
   </table>
-<h3>5.2.1.4 Testing Suite Evidence for Sprint Review</h4>
+<h3>5.2.2.4 Testing Suite Evidence for Sprint Review</h4>
 <p></p>
-<h3>5.2.1.5 Execution Evidence for Sprint Review.</h3>
+<h3>5.2.2.5 Execution Evidence for Sprint Review.</h3>
 Registro de usuario:
 
 Ingreso de usuario:
@@ -467,9 +467,9 @@ Descripcion del Evento:
 Registro de Evento Confirmado:
 
 
-<h3>5.2.1.6 Services Documentation Evidence for Sprint Review.</h3>
+<h3>5.2.2.6 Services Documentation Evidence for Sprint Review.</h3>
 <p></p>
-<h3>5.2.1.7 Software Deployment Evidence for Sprint Review.</h3>
+<h3>5.2.2.7 Software Deployment Evidence for Sprint Review.</h3>
 
-<h3>5.2.1.8 Team Collaboration Insights during Sprint.</h3>
+<h3>5.2.2.8 Team Collaboration Insights during Sprint.</h3>
 
