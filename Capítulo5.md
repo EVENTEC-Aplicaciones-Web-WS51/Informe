@@ -195,7 +195,7 @@ Link del Landing Page: https://stxfxno.github.io/MyEvent/myevent.html
   </tr>
 </table>
 
-<h4>5.2.1.3 Development Evidence for Sprint Review</h4>
+<h3>5.2.1.3 Development Evidence for Sprint Review</h4>
 <table>
    <tr>
     <th>Repository</th>
@@ -242,7 +242,7 @@ Link del Landing Page: https://stxfxno.github.io/MyEvent/myevent.html
     <th>Wed Apr 10 23:38:13 2024</th>
   </tr>
   </table>
-<h4>5.2.1.4 Testing Suite Evidence for Sprint Review</h4>
+<h3>5.2.1.4 Testing Suite Evidence for Sprint Review</h4>
 <p>Como nos encontramos en una etapa de diseño de la pagina web, aun no podemos realizar los respectivos Tests. Pero se están
 realizando las validaciones para ir mejorando en nuetra pagina web</p>
 <h3>5.2.1.5 Execution Evidence for Sprint Review.</h3>
@@ -269,3 +269,10 @@ Registro de Evento Confirmado:
 <h3>5.2.1.8 Team Collaboration Insights during Sprint.</h3>
 <img src="./imagenes/commits.png">
 <img src="./imagenes/insights.png">
+
+<h2>5.3 Validation Interviews</h2>
+<h3>5.3.1 Diseño de Entrevistas</h2>
+<h3>5.3.2 Registro de Entrevistas</h3>
+<h3>5.3.3 Evaluaciones según heurísticas</h3>
+
+<h2>5.4 Video About-the-Product</h2>
