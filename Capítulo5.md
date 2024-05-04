@@ -82,7 +82,7 @@ Link del Landing Page: https://stxfxno.github.io/MyEvent/myevent.html
                 </tr>
                 <tr>
                     <td>Time</td>
-                    <td>00:00 am</td>
+                    <td>10:00 am</td>
                 </tr>
                 <tr>
                     <td>Location</td>
@@ -90,7 +90,7 @@ Link del Landing Page: https://stxfxno.github.io/MyEvent/myevent.html
                 </tr>
                 <tr>
                     <td>Prepared By</td>
-                    <td>Godofredo Quispe Tipo</td>
+                    <td>Luis Alejandro Zárate Gamarra</td>
                 </tr>
                 <tr>
                     <td>Attendees (to planning meeting)</td>
