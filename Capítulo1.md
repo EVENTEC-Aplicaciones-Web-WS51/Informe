@@ -18,6 +18,7 @@
 ---
 
 ## Informe de TB1
+## Grupo 2
 
 **Startup:** Eventec
 
@@ -31,7 +32,7 @@ Godofredo, Quispe Tipo
 
 Jeremi Jose, Antonio Fretel
 
-Luis Alejandro, Zárate Gamarra
+Luis Alejandro, Zárate Gamarra - U20181H198
 
 **Abril - 2024** 
 
@@ -88,11 +89,11 @@ Luis Alejandro, Zárate Gamarra
                 <li><strong>Luis Alejandro Zárate Gamarra</strong>
                   <p>
                     <strong>TB1</strong>
-                    <p>
-                      De acuerdo al objetivo en las etapas de análisis de competidores y desarrollo de estrategias se mantuvo una comunicación efectiva con los diversos usuarios involucrados en las etapas de investigación, análisis y estudio. Asimismo, se presentaron los resultados de forma clara en las secciones de los empathy maps y as-is scenario mapping.
-</p>
+                    <p>De acuerdo al objetivo en las etapas de análisis de competidores y desarrollo de estrategias se mantuvo una comunicación efectiva con los diversos usuarios involucrados en las etapas de investigación, análisis y estudio. Asimismo, se presentaron los resultados de forma clara en las secciones de los empathy maps y as-is scenario mapping. </p>
+                    <strong>TP</strong>
+                    <p>Durante el proyecto, logré comunicar mis ideas y resultados de manera objetiva a diferentes audiencias. En las etapas de corrección, desarrollo, implementación y despliegue mantuve una comunicación efectiva con usuarios de diversas especialidades y niveles jerárquicos. Presenté los resultados de manera clara en secciones como los apartados de visualización principales, adaptándome a las necesidades de cada grupo. Este enfoque contribuyó al éxito general del proyecto.</p>
                   </p>
-                </li>    
+                </li>   
             </ul>
                 </li>    
             </ul>
@@ -113,7 +114,10 @@ Luis Alejandro, Zárate Gamarra
                 <p>
                     <strong>TB1</strong>
                     <p>De acuerdo al objetivo en las etapas de análisis de competidores y desarrollo de estrategias se mantuvo una presentación de la información óptima con los diversos usuarios involucrados en las etapas de investigación, análisis y estudio. Asimismo, se presentaron los resultados escritos de forma clara en las secciones de los empathy maps y as-is scenario mapping.</p>
-                </p>
+                    <strong>TP</strong>
+<p>Durante el proyecto, me enfoqué en comunicar mis ideas y resultados de manera objetiva a diversas audiencias. Durante las etapas de corrección, desarrollo, implementación y despliegue, mantuve una comunicación efectiva con usuarios de diferentes especialidades y niveles jerárquicos. Destaqué los resultados de forma clara en secciones clave, como los apartados de visualización principales, adaptándome a las necesidades específicas de cada grupo. Este enfoque contribuyó significativamente al éxito general del proyecto.</p>
+
+</p>
                 </li>
                 <li><strong>Luis Mario Gonzales Anaya</strong>
                     <p>
@@ -333,7 +337,7 @@ Se asume que implementar un programa de fidelización con acumulación y canje d
 <p><span>Hypothesis</span> 5: Si se simplifica el proceso de compra de boletos con información clara sobre precios y disponibilidad, así como una seguridad de transacción mejorada, entonces los usuarios experimentarán menos frustración y mayor confianza al realizar compras de boletos, lo que en última instancia llevará a tasas de conversión más altas.</p>
 <h4>1.2.2.4 Lean UX Canvas</h4>
    
-<img src="./imagenes/Lean%20UX%20Canvas.png"> 
+<img src="./imagenes/Lean UX Canvas2.jpg"> 
 
 <h2>1.3 Segmentos objetivo</h2>
 <p>MyEvent está diseñado para atender a dos segmentos clave en la industria del entretenimiento en vivo. El primero se compone de entusiastas de la música y los eventos en vivo, que buscan una experiencia sin complicaciones al adquirir entradas para conciertos, festivales y espectáculos locales. Para este segmento se considerará la conveniencia, la variedad de eventos disponibles y la seguridad en las transacciones en línea. El segundo segmento lo conforman los organizadores de eventos y propietarios de locales. Este grupo buscan una plataforma confiable y eficiente para vender y gestionar las entradas de sus eventos. Priorizan herramientas que les permitan alcanzar a su audiencia objetivo de manera efectiva, gestionar fácilmente el proceso de venta de entradas y obtener información detallada sobre la asistencia y las preferencias de los asistentes. Al comprender las necesidades únicas de estos dos tipos de usuarios, MyEvent se posiciona como una solución integral que ofrece una experiencia fluida tanto para los compradores de entradas como para los organizadores de eventos.</p>
