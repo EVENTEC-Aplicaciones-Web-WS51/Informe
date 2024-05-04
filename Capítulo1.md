@@ -86,7 +86,7 @@ Luis Alejandro, Zárate Gamarra - U20181H198
                     <p>
                         En el proyecto, me encargué de comunicar de forma clara y objetiva conceptos técnicos a audiencias diversas. Esto implicó presentar User Personas, el User Task Matrix y entrevistar a clientes clave. Además, desarrollé Diagramas de Clases y de Base de Datos, demostrando habilidades de comunicación efectiva en un contexto de ingeniería.
                     </p>
-                    <strong>TP1</strong>
+                    <strong>TP</strong>
                     <p>
                     En el contexto del desarrollo de nuestro proyecto de ingeniería para una aplicación de venta de entradas, fui responsable de diseñar y implementar la funcionalidad del calendario, así como de la capacidad para agregar eventos. Durante la comunicación de mis ideas y resultados, me esforcé por ser objetivo y claro, adaptando mi discurso según la audiencia, que incluía tanto a especialistas técnicos como a miembros de diferentes niveles jerárquicos dentro de la organización. Esto aseguró una comprensión efectiva y una colaboración fluida en el proyecto.
                     </p>
@@ -94,7 +94,7 @@ Luis Alejandro, Zárate Gamarra - U20181H198
                 <li><strong>Jeremi Jose Antonio Fretel</strong></li>
                 <p><strong>TB1</strong></p>
                 <p>En el proyecto me encargue de comentar y explicar los métodos junto a las apps que utilizamos en todo el proyecto, por eso me encargue del Software Configuration Management y sus implementaciones, entre ellos está el Software Development Environment Configuration, Source Code Management, Source Code Style Guide & Conventions y por último el Software Deployment Configuration.</p>
-                <strong>TP1</strong>
+                <strong>TP</strong>
                     <p>
                     En el contexto del desarrollo de nuestro proyecto de ingeniería para una app que realiza la venta de entradas, fui el responsable de diseñar e intentar implementar la funcionalidad de detalles de un evento y la confirmación de dicho evento. Además, durante la comunicación de mis resultados y mi posible idea de implementación, me esforcé en su realización, además intente ser objetivo y claro para que el proceso de la interacción no sea complicado para el usuario.
                 <li><strong>Luis Alejandro Zárate Gamarra</strong>
@@ -134,7 +134,7 @@ Luis Alejandro, Zárate Gamarra - U20181H198
                     <p>
                         <strong>TB1</strong>
                         <p>En el proyecto de ingeniería, comuniqué de manera objetiva y clara ideas y resultados por escrito a audiencias diversas. Esto incluyó la elaboración de documentos como User Personas, una User Task Matrix, informes de entrevistas y Diagramas de Clases y de Base de Datos. Mi habilidad para transmitir información técnica fue crucial para el éxito del proyecto.</p>
-                        <strong>TP1</strong>
+                        <strong>TP</strong>
                         <p>
                             Como parte del desarrollo de nuestro proyecto de ingeniería para una aplicación de venta de entradas y creación de eventos, trabajé en la implementación de la funcionalidad de calendario y en la opción para agregar eventos. Durante este proceso, documenté mis ideas y resultados de manera clara y objetiva, asegurando que fueran comprensibles para una audiencia diversa, incluyendo expertos técnicos y personas de diferentes niveles jerárquicos. Mi enfoque en la precisión y la claridad ayudó a que la información pudiera ser utilizada eficazmente para la toma de decisiones y la colaboración entre equipos.
                         </p>
@@ -145,7 +145,7 @@ Luis Alejandro, Zárate Gamarra - U20181H198
                         <strong>TB1</strong>
                         <p>Tuve la responsabilidad de comentar y explicar los métodos y aplicaciones que utilizamos a lo largo de todo el proyecto. Por lo tanto, me ocupé del Control de Configuración de Software y sus implementaciones, que incluyen la Configuración del Entorno de Desarrollo de Software, la Gestión del Código Fuente, la Guía de Estilo y Convenciones del Código Fuente, y por último, la Configuración del Despliegue de Software.</p>
                     </p>
-                    <strong>TP1</strong>
+                    <strong>TP</strong>
                     <p>
                    En el marco del desarrollo de nuestro proyecto de ingeniería para una aplicación dedicada a la venta de entradas, tuve a mi cargo el diseño e intento de implementación de dos funciones clave: los detalles de un evento y la confirmación de la compra de entradas para dicho evento. Durante la presentación de mis resultados y propuestas de implementación, me esforcé por ser objetivo y claro, buscando simplificar el proceso de interacción para el usuario.
                 </li>
