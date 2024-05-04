@@ -2,7 +2,7 @@
 <h1>CAPÍTULO II: REQUISITOS DE ELICITACIÓN Y ANÁLISIS</h1>
 <h2>2.1 Competidores</h2>
 
-<p>En el competitivo mercado de la venta de entradas para eventos en línea, MyEvent se enfrenta a varios competidores destacados. Entre ellos, se encuentran plataformas establecidas como Teleticket, Passline y Joinnus. Teleticket, reconocida por su amplia cobertura nacional, ofrece una amplia gama de eventos culturales y de entretenimiento. Por otro lado, Passline se destaca por su interfaz fácil de usar y su enfoque en la seguridad de las transacciones. Joinnus, por su parte, se distingue por su versatilidad, no solo como plataforma de venta de entradas, sino también como organizadora y promoción de eventos. Aunque estos competidores representan una competencia sólida, MyEvent busca diferenciarse mediante características únicas, como la opción de combos exclusivos, asociaciones conn establecimientos y opciones para revendedores, para ofrecer a los usuarios una experiencia completa y emocionante al comprar entradas para eventos locales.</p>
+<p>En el competitivo mercado de la venta de entradas para eventos en línea, MyEvent se enfrenta a varios competidores destacados. Entre ellos, se encuentran plataformas establecidas como Teleticket, Passline y Joinnus. Teleticket, reconocida por su amplia cobertura nacional, ofrece una amplia gama de eventos culturales y de entretenimiento. Por otro lado, Passline se destaca por su interfaz fácil de usar y su enfoque en la seguridad de las transacciones. Joinnus, por su parte, se distingue por su versatilidad, no solo como plataforma de venta de entradas, sino también como organizadora y promoción de eventos. Aunque estos competidores representan una competencia sólida, MyEvent busca diferenciarse mediante características únicas, como la opción de combos exclusivos, asociaciones con establecimientos y opciones para revendedores, para ofrecer a los usuarios una experiencia completa y emocionante al comprar entradas para eventos locales.</p>
 
 <h3>2.1.1 Análisis competitivo</h3>
 <table>
@@ -383,7 +383,7 @@ en horas tardías, generando miedo e incertidumbre sobre si su evento se llenar�
 
 <p>Estos puntos resaltan la importancia de garantizar la seguridad, ofrecer opciones de personalización y conveniencia, e integrar características sociales y analíticas en una plataforma de venta de entradas. Además, destacan la relevancia de considerar las preferencias cambiantes de los jóvenes en relación con su ocio nocturno, como lo sugieren los datos proporcionados por el Injuve y el Centro Reina Sofía sobre Adolescencia y Juventud.</p>
   
-  <h3>Análsis estadístico</h3>
+  <h3>Análisis estadístico</h3>
   <ul>
         <li>A continuacion mostramos los principales problemas que nuestros entrevistados consideran en un servicio de venta de entradas:</li>
         <img src="./imagenes/analisisEstadistico1.png">
