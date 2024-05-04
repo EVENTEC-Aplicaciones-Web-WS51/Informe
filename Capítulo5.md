@@ -151,7 +151,7 @@ Link del Landing Page: https://stxfxno.github.io/MyEvent/myevent.html
     <th>Diseño </th>
     <th>Como visitante, quiero ver una landing page intuitiva, atractiva y sencilla para que pueda entender rápidamente el propósito del sitio web.</th>
     <th>2 hours</th>
-    <th>Michael</th>
+    <th>Mario</th>
     <th>Done</th>
   </tr>
   <tr>
@@ -171,7 +171,7 @@ Link del Landing Page: https://stxfxno.github.io/MyEvent/myevent.html
     <th>Sección Nosotros</th>
     <th>Como visitante, quiero ver una seccion en el landing page que hable acerca de la empresa y su motivación.</th>
     <th>2 hours</th>
-    <th>Piero</th>
+    <th>Jeremi</th>
     <th>Done</th>
   </tr>
   <tr>
@@ -181,7 +181,7 @@ Link del Landing Page: https://stxfxno.github.io/MyEvent/myevent.html
     <th>Sección de contacto</th>
     <th>Como usuario, quiero una seccion donde pueda observar tarjetas de presentacion de personas con las cuales pueda comunicarme relacionadas con la empresa.</th>
     <th>3 hours</th>
-    <th>Mario</th>
+    <th>Godofredo</th>
     <th>Done</th>
   </tr>
   <tr>
@@ -191,7 +191,7 @@ Link del Landing Page: https://stxfxno.github.io/MyEvent/myevent.html
     <th>Elementos call to action</th>
     <th>Como visitante, quiero poder observar dentro de la landing page algun elemento que pueda dirijirme directamente a la descarga o uso de la aplicacion que promueve esta landing page</th>
     <th>30 minutes</th>
-    <th>Alessandro</th>
+    <th>Luis</th>
     <th>Done</th>
   </tr>
 </table>
@@ -331,145 +331,230 @@ Registro de Evento Confirmado:
         </table>
 
 <h3>5.2.2.2 Sprint Backlog 2</h3>
-<P>En este Sprint Backlog el grupo se enfoco en realizar el Front de la aplicación web junto con todas sus funcionalidades.</P>
 <table>
+    <tr>
+     <th>Sprint #</th>
+     <th>Sprint 2</th>
+   </tr>
+    <tr>
+     <th>User Story</th>
+     <th></th>
+     <th>Work-Item/Task</th>
+   </tr>
    <tr>
-    <th>Sprint #</th>
-    <th>Sprint 2</th>
-  </tr>
+     <th>Id</th>
+     <th>Title</th>
+     <th>Id</th>
+     <th>Title </th>
+     <th>Description</th>
+     <th>Estimation(Hours)</th>
+     <th>Assigned To</th>
+     <th>Status (To-do / InProcess / ToReview / Done)</th>
+   </tr>
    <tr>
-    <th>User Story</th>
-    <th></th>
-    <th>Work-Item/Task</th>
-  </tr>
-  <tr>
-    <th>Id</th>
-    <th>Title</th>
-    <th>Id</th>
-    <th>Title </th>
-    <th>Description</th>
-    <th>Estimation(Hours)</th>
-    <th>Assigned To</th>
-    <th>Status (To-do / InProcess / ToReview / Done)</th>
-  </tr>
-  <tr>
-    <th>US-</th>
-    <th></th>
-    <th>W-</th>
-    <th></th>
-    <th></th>
-    <th> hours</th>
-    <th></th>
-    <th></th>
-  </tr>
-  <tr>
-    <th>US-</th>
-    <th></th>
-    <th>W-</th>
-    <th></th>
-    <th></th>
-    <th></th>
-    <th></th>
-    <th></th>
-  </tr>
-  <tr>
-    <th>US-</th>
-    <th></th>
-    <th>W-</th>
-    <th></th>
-    <th></th>
-    <th></th>
-    <th></th>
-    <th></th>
-  </tr>
-  <tr>
-    <th>US-</th>
-    <th></th>
-    <th>W-</th>
-    <th></th>
-    <th></th>
-    <th></th>
-    <th></th>
-    <th></th>
-  </tr>
-  <tr>
-    <th>US-</th>
-    <th></th>
-    <th>W-</th>
-    <th></th>
-    <th></th>
-    <th></th>
-    <th></th>
-    <th></th>
-  </tr>
+     <th>US-01</th>
+     <th>Visualizar la vista de inicio de la aplicacion</th>
+     <th>W-01</th>
+     <th>Vista inicial de la aplicación </th>
+     <th>Como usuario nuevo que accede a la aplicación por primera vez,
+        Quiero poder ver la vista de inicio de la aplicación,
+        Para poder familiarizarme con la interfaz y las opciones disponibles.
+     <th>2 hours</th>
+     <th>Luis</th>
+     <th>Done</th>
+   </tr>
+   <tr>
+     <th>US-02</th>
+     <th>Visualizar la vista de inicio de sesion</th>
+     <th>W-02</th>
+     <th>Iniciar sesion</th>
+     <th>Como usuario nuevo que desea utilizar el servicio,
+       Quiero poder ver la opción de iniciar sesión en el sitio web o aplicación,
+       Para acceder a todas las funcionalidades y personalizar mi experiencia según mis preferencias y necesidades.</th>
+     <th>2 hours</th>
+     <th>Godofredo</th>
+     <th>Done</th>
+   </tr>
+   <tr>
+     <th>US-03</th>
+     <th>Visualizar la vista registro /th>
+     <th>W-03</th>
+     <th>Registro de usuario</th>
+     <th>Como usuario nuevo interesado en utilizar la aplicación,
+        Quiero poder ver la vista de registro de usuario,
+        Para poder crear una cuenta y comenzar a utilizar todas las funcionalidades disponibles.
+     <th>2 hours</th>
+     <th>Godofredo</th>
+     <th>Done</th>
+   </tr>
+   <tr>
+     <th>US-04</th>
+     <th>Visualizar el calendario de eventos futuros</th>
+     <th>W-04</th>
+     <th>Calendario de eventos</th>
+     <th>Como usuario de la aplicación,
+        Quiero poder acceder y visualizar el calendario de eventos futuros,
+        Para poder planificar y organizarme con anticipación según las fechas y detalles de los eventos próximos.
+     </th>
+     <th>2 hours</th>
+     <th>Luis</th>
+     <th>Done</th>
+   </tr>
+   <tr>
+     <th>US-05</th>
+     <th>Visualizacion de la sección para añadir evento</th>
+     <th>W-05</th>
+     <th>Registrar un evento</th>
+     <th>Como usuario de la aplicación,
+        Quiero poder acceder y visualizar la sección para añadir evento,
+        Para poder crear nuevos eventos y agregarlos al calendario con los detalles necesarios.
+        <th>2 hours</th>
+     <th>Mario</th>
+     <th>Done</th>
+   </tr>
+   <tr>
+     <th>US-06</th>
+     <th>Visualización de la seccion del detalle del evento</th>
+     <th>W-06</th>
+     <th>Detalle de evento</th>
+     <th>CComo usuario de la aplicación,
+        Quiero poder acceder y visualizar la sección de detalle del evento,
+        Para obtener información detallada sobre un evento específico, incluidos la fecha, la hora, la ubicación y cualquier otra información relevante.
+    </th>
+     <th>1 hours</th>
+     <th>Jeremi</th>
+     <th>Done</th>
+   </tr>
+ 
+   <tr>
+     <th>US-07</th>
+     <th>Visualización de la notificacion de transacción</th>
+     <th>W-06</th>
+     <th>Notificación de transacción</th>
+     <th>Como usuario de la aplicación,
+        Quiero poder recibir y visualizar notificaciones de transacciones,
+        Para estar al tanto de las actualizaciones importantes relacionadas con mis actividades financieras, como pagos realizados, recibidos o cualquier otro tipo de transacción.
+    </th>
+     <th>1 hours</th>
+     <th>Jeremi</th>
+     <th>Done</th>
+   </tr>
+   <tr>
+     <th>US-08</th>
+     <th>Visualización de la confirmación de la compra del boleto</th>
+     <th>W-06</th>
+     <th>Confirmación de la compra del boleto</th>
+     <th>Como usuario que realiza la compra de un boleto,
+        Quiero poder ver la confirmación de la compra del boleto,
+        Para asegurarme de que la transacción se haya completado con éxito y tener un registro de mi compra.
+        <th>1 hours</th>
+     <th>Jeremi</th>
+     <th>Done</th>
+   </tr>
+ </table>
+ <h3>5.2.2.3 Development Evidence for Sprint Review</h3>
+<table>
+    <tr>
+        <td>Repository</td>
+        <td>Branch</td>
+        <td>Commit Id</td>
+        <td>Commit Message</td>
+        <td>Commit Message Body</td>
+        <td>Commited on (Date)</td>
+    </tr>
+    <tr>
+        <td>WS52-Open-Source-Grupo-2-MyEvent-Informe</td>
+        <td>feature/notifications</td>
+        <td>841ef6dd1515f226a07bb977ee8892adad260c96</td>
+        <td>feat: Agregar vistas de notificacion de compra de entradas a eventos</td>
+        <td>Agregar la vistas de notificaciones de compra de entradas a los eventos</td>
+        <td>Commits on Apr 30, 2024</td>
+    </tr>
+    <tr>
+        <td>WS52-Open-Source-Grupo-2-MyEvent-Informe</td>
+        <td>feature/notifcaciones</td>
+        <td>676f1701e3b29cfe15c7e1806aa1b7f5b769f702</td>
+        <td>feat: Agregar creacion de eventos</td>
+        <td>Creacion del componente de creacion de eventos hacia el fake API</td>
+        <td>Commits on May 2, 2024</td>
+    </tr>
+    <tr>
+        <td>WS51-App-Web-Grupo-2-MyEvent-Informe</td>
+        <td>feature/create-event</td>
+        <td>df92b59f91fc971fd669716f5d0096b6bad2457c</td>
+        <td>feat: Se agregó el componente home</td>
+        <td>Creación de componente home </td>
+        <td>Commits on Apr 28, 2024</td>
+    </tr>
+        <tr>
+        <td>WS51-App-Web-Grupo-2-MyEvent-Informe</td>
+        <td>feature/loginregistercomplete</td>
+        <td>80dd7fde062e88f54d4c9f13b9f86c18b0dd2819</td>
+        <td>feat: se agregó funcionalidad al botón login e inicialización en el apartado del catálogo</td>
+        <td>Creacion del boton de login e inicialización del apartado del catalogo</td>
+        <td>Commits on May 1, 2024</td>
+    </tr>
+        <tr>
+        <td>WS51-App-Web-Grupo-2-MyEvent-Informe</td>
+        <td>feature/notification</td>
+        <td>841ef6dd1515f226a07bb977ee8892adad260c96</td>
+        <td>feat: Agregar vistas de notificacion de compra de entradas a eventos</td>
+        <td>Creación de componente de notificacion de la compra del boleto</td>
+        <td>Commits on Apr 30, 2024</td>
+    </tr>
+        <tr>
+        <td>WS51-App-Web-Grupo-2-MyEvent-Informe</td>
+        <td>feature/notification</td>
+        <td>676f1701e3b29cfe15c7e1806aa1b7f5b769f702</td>
+        <td>feat: Agregar creacion de eventos</td>
+        <td>Merge de la creacion de eventos en la rama</td>
+        <td>Commits on May 2, 2024</td>
+    </tr>
 </table>
+<h3>5.2.2.4 Testing Suite Evidence for Sprint Review</h3>
+<p align="justify">
+  Dado que estamos en la fase de diseño del prototipo de la aplicación web, aún no es posible llevar a cabo pruebas exhaustivas. Sin embargo, estamos evaluando diversas herramientas y metodologías para garantizar que, una vez implementada, nuestra aplicación web sea robusta y libre de errores.
+</p>
 
-<h3>5.2.2.3 Development Evidence for Sprint Review</h4>
-<table>
-   <tr>
-    <th>Repository</th>
-    <th>Branch</th>
-    <th>Commit ID</th>
-    <th>Commit Message</th>
-    <th>Commit ed on (Date)</th>
-  </tr>
-  <tr>
-    <th></th>
-    <th></th>
-    <th></th>
-    <th></th>
-    <th></th>
-  </tr>
-  <tr>
-    <th></th>
-    <th></th></th>
-    <th></th>
-    <th></th>
-    <th></th>
-  </tr>
-   <tr>
-    <th></th>
-    <th></th>
-    <th></th>
-    <th></th>
-    <th></th>
-  </tr>
-  </tr>
-   <tr>
-    <th></th>
-    <th></th>
-    <th></th>
-    <th></th>
-    <th></th>
-  </tr>
-  </tr>
-   <tr>
-    <th></th>
-    <th></th>
-    <th></th>
-    <th></th>
-    <th></th>
-  </tr>
-  </table>
-<h3>5.2.2.4 Testing Suite Evidence for Sprint Review</h4>
-<p></p>
-<h3>5.2.2.5 Execution Evidence for Sprint Review.</h3>
-Registro de usuario:
+<h3>5.2.2.5 Software Deployment Evidence for Sprint Review</h3>
+<p>El proyecto se trabajo en un repositorio dentro de nuestra organización</p>
+<img src="./imagenes/repoFront.png" >
+<p>Enlace al repositorio del proyecto: https://github.com/EVENTEC/WS52-Open-Source-Grupo-2-MyEvent-FrontEnd</p>
 
-Ingreso de usuario:
+<p>El deployment de nuestro Front-end se ha desarrollado en Netlify</p>
+<img src="./imagenes/deployNetlify.png" >
+<img src="./imagenes/deployNetlify2.png" >
+<p>Enlace al proyecto desplegado: https://master--myevent-frontend-grupo2.netlify.app/ </p>
 
-Ingreso de fecha de publicacion del evento:
+<h3>5.2.2.6 Services Documentation Evidence for Sprint Review</h3>
+Debido a que estamos en la etapa de desarrollo del frontend de la aplicación web. No se está aplicando el servicio de Apis para la demostración de los datos, en su lugar se esta haciendo uso de una fake API.
 
-Añadiendo evento:
-
-Descripcion del Evento:
-
-Registro de Evento Confirmado:
+<h3>5.2.2.7 Execution Evidence for Sprint Review</h3>
+<img src="./imagenes/1.png">
+<img src="./imagenes/2.png">
+<img src="./imagenes/3.png">
+<img src="./imagenes/4.png">
+<img src="./imagenes/5.png">
+<img src="./imagenes/6.png">
 
 
-<h3>5.2.2.6 Services Documentation Evidence for Sprint Review.</h3>
-<p></p>
-<h3>5.2.2.7 Software Deployment Evidence for Sprint Review.</h3>
+<h3>5.2.2.8 Team Collaboration Insights during Sprint</h3>
+<p align="justify">
+  Durante el Sprint actual, nos dispusimos a abordar las distintas mejoras para MyEvent. Empezamos con la creación de la plataforma principal en Angular. Para ello, dividimos las tareas para trabajar de manera eficiente y centrarnos en áreas específicas, con el fin de optimizar el tiempo y los recursos. Debido a esto, la participación de los miembros del equipo se ve reflejado en los commits realizados en el repositorio de trabajo:
+</p>
 
-<h3>5.2.2.8 Team Collaboration Insights during Sprint.</h3>
+<img src="./imagenes/Contributors1.png" width="600" height="350">
+<img src="./imagenes/Contributors2.png" width="600" height="350">
+<img src="./imagenes/Traffic.png" width="600" height="300">
+<h1>CONCLUSIONES</h1>
+<p>Durante el desarrollo del front end para la aplicación de venta de entradas de eventos "MyEvent", se demostró un compromiso sólido con la implementación eficiente y efectiva de soluciones utilizando tecnología Angular. La elección de utilizar fake APIs a través de db.json para simular el comportamiento de las APIs reales fue una estrategia inteligente que permitió un desarrollo ágil y centrado en los requisitos del cliente. Esta decisión también facilitó la colaboración entre los desarrolladores al proporcionar un entorno controlado y predecible para probar y validar el front end.
 
+El uso de Angular como framework de desarrollo web permitió la creación de una interfaz de usuario dinámica y receptiva, brindando a los usuarios una experiencia fluida al navegar por la aplicación y comprar entradas para eventos. Además, la implementación de fake APIs garantizó que el equipo de desarrollo pudiera trabajar de manera independiente en el front end sin depender de servicios externos, lo que aceleró el proceso de desarrollo y facilitó la iteración y mejora continua del producto.
+
+En resumen, el proyecto de desarrollo del front end para la aplicación de venta de entradas de eventos "MyEvent" fue un éxito gracias a la combinación de tecnología Angular y la implementación inteligente de fake APIs. Esta experiencia no solo demostró la capacidad del equipo para adaptarse y aprovechar las herramientas disponibles de manera efectiva, sino que también sentó las bases para futuros proyectos de desarrollo web con un enfoque similar.</p>
+<h1>ANEXOS</h1>
+<ul>
+    <li>Marches Parra, J., & Granados Romero, A. (2022). Plataforma de compra y venta de entradas para eventos integrada en la tecnología blockchain. [Trabajo final de grado, Grau en Enginyeria Informàtica (Pla 2018), Escola Politècnica Superior d'Enginyeria de Vilanova i la Geltrú]. Universitat Politècnica de Catalunya. http://hdl.handle.net/2117/378090</li>
+    <li>
+        Lazcano Quintana, I., & Madariaga Ortuzar, A. (2016). El ocio nocturno de la juventud en España. En M.-A. Berthet, I. Lazcano Quintana, L. Lombi, A. Madariaga Ortuzar, A. Ramos Pérez, E. Rodríguez San Julián, A. Sanmartín Ortí, & S. J. Zoltán (Eds.), La marcha nocturna: ¿Un rito exclusivamente español? (pp. 34-95). ISBN 978-84-92454-33-4. https://dialnet.unirioja.es/descarga/articulo/6149003.pdf</li>
+</ul>
