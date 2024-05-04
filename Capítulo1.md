@@ -153,7 +153,8 @@ Luis Alejandro, Zárate Gamarra - U20181H198
                     <p>
                         <strong>TB1</strong>
                         <p>En esta etapa, se tradujeron los requisitos de los usuarios a través de Figma, con el objetivo de comprender sus necesidades y garantizar que la aplicación sea altamente intuitiva para ellos. Además, se trabajó en asegurar que la interfaz sea coherente y se alinee adecuadamente con la visión original del proyecto.</p>
-                    </p>
+                    </p><strong>TP</strong>
+                    <p>En relación con mi enfoque en el proyecto, me centré en identificar los aspectos que los usuarios consideran más valiosos. Al permitir que el usuario indique sus preferencias y necesidades durante la selección o finalización de una acción,  esto respecto al login y registro de usuario el cual fue favorable gracias a la comunicación entre ambas partes.</p>
                 </li>
         </td>
         <td>
