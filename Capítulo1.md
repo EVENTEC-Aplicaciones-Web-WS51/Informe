@@ -78,7 +78,7 @@ Luis Alejandro, Zárate Gamarra - U20181H198
                 <p><strong>TB1</strong>
                     <p>De acuerdo con el objetivo de la entrevista, se evidenció una comunicación clara entre los potenciales usuarios de la plataforma, lo cual permitió verificar los requisitos y necesidades para su mejora e implementación en la aplicación web. Este proceso se refleja en los sprint, donde se han incorporado prácticamente todas las necesidades identificadas por los usuarios o potenciales usuarios.</p>
                     <strong>TP</strong>
-                    <p>En relación con mi enfoque en el proyecto, me centré en identificar los aspectos que los usuarios consideran más valiosos. Al permitir que el usuario indique sus preferencias y necesidades durante la selección o finalización de una acción, esto debido a que el usuario, esto respecto al login y registro de usuario el cual fue favorable gracias a la comunicación entre ambas partes.</p>      
+                    <p>En relación con mi enfoque en el proyecto, me centré en identificar los aspectos que los usuarios consideran más valiosos. Al permitir que el usuario indique sus preferencias y necesidades durante la selección o finalización de una acción,  esto respecto al login y registro de usuario el cual fue favorable gracias a la comunicación entre ambas partes.</p>      
                    </p>
                 <li><strong>Luis Mario Gonzales Anaya</strong></li>
                 <p>
