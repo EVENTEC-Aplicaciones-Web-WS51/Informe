@@ -79,13 +79,13 @@ Luis Alejandro, Zárate Gamarra - U20181H198
                 <li><strong>Luis Mario Gonzales Anaya</strong></li>
                 <p>
                     <strong>TB1</strong>
-                <p>
+                    <p>
                         En el proyecto, me encargué de comunicar de forma clara y objetiva conceptos técnicos a audiencias diversas. Esto implicó presentar User Personas, el User Task Matrix y entrevistar a clientes clave. Además, desarrollé Diagramas de Clases y de Base de Datos, demostrando habilidades de comunicación efectiva en un contexto de ingeniería.
-                </p>
-                <strong>TP1</strong>
-                <p>
+                    </p>
+                    <strong>TP1</strong>
+                    <p>
                     En el contexto del desarrollo de nuestro proyecto de ingeniería para una aplicación de venta de entradas, fui responsable de diseñar y implementar la funcionalidad del calendario, así como de la capacidad para agregar eventos. Durante la comunicación de mis ideas y resultados, me esforcé por ser objetivo y claro, adaptando mi discurso según la audiencia, que incluía tanto a especialistas técnicos como a miembros de diferentes niveles jerárquicos dentro de la organización. Esto aseguró una comprensión efectiva y una colaboración fluida en el proyecto.
-                </p>
+                    </p>
                 </p>
                 <li><strong>Jeremi Jose Antonio Fretel</strong></li>
                 <p><strong>TB1</strong></p>
@@ -127,6 +127,10 @@ Luis Alejandro, Zárate Gamarra - U20181H198
                     <p>
                         <strong>TB1</strong>
                         <p>En el proyecto de ingeniería, comuniqué de manera objetiva y clara ideas y resultados por escrito a audiencias diversas. Esto incluyó la elaboración de documentos como User Personas, una User Task Matrix, informes de entrevistas y Diagramas de Clases y de Base de Datos. Mi habilidad para transmitir información técnica fue crucial para el éxito del proyecto.</p>
+                        <strong>TP1</strong>
+                        <p>
+                            Como parte del desarrollo de nuestro proyecto de ingeniería para una aplicación de venta de entradas y creación de eventos, trabajé en la implementación de la funcionalidad de calendario y en la opción para agregar eventos. Durante este proceso, documenté mis ideas y resultados de manera clara y objetiva, asegurando que fueran comprensibles para una audiencia diversa, incluyendo expertos técnicos y personas de diferentes niveles jerárquicos. Mi enfoque en la precisión y la claridad ayudó a que la información pudiera ser utilizada eficazmente para la toma de decisiones y la colaboración entre equipos.
+                        </p>
                     </p>
                 </li>
                     <li><strong>Jeremi Jose Antonio Fretel</strong>
