@@ -79,9 +79,13 @@ Luis Alejandro, Zárate Gamarra - U20181H198
                 <li><strong>Luis Mario Gonzales Anaya</strong></li>
                 <p>
                     <strong>TB1</strong>
-                    <p>
+                <p>
                         En el proyecto, me encargué de comunicar de forma clara y objetiva conceptos técnicos a audiencias diversas. Esto implicó presentar User Personas, el User Task Matrix y entrevistar a clientes clave. Además, desarrollé Diagramas de Clases y de Base de Datos, demostrando habilidades de comunicación efectiva en un contexto de ingeniería.
-                    </p>
+                </p>
+                <strong>TP1</strong>
+                <p>
+                    En el contexto del desarrollo de nuestro proyecto de ingeniería para una aplicación de venta de entradas, fui responsable de diseñar y implementar la funcionalidad del calendario, así como de la capacidad para agregar eventos. Durante la comunicación de mis ideas y resultados, me esforcé por ser objetivo y claro, adaptando mi discurso según la audiencia, que incluía tanto a especialistas técnicos como a miembros de diferentes niveles jerárquicos dentro de la organización. Esto aseguró una comprensión efectiva y una colaboración fluida en el proyecto.
+                </p>
                 </p>
                 <li><strong>Jeremi Jose Antonio Fretel</strong></li>
                 <p><strong>TB1</strong></p>
