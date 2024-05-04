@@ -276,7 +276,7 @@ Luis Alejandro, Zárate Gamarra - U20181H198
 
   <p><strong>Luis Alejandro Zárate Gamarra</strong></p>
   <img src="./imagenes/AlejandroZarateG.jpeg" width="200" height="230">
-  <p class="justificado">Soy estudiante de Ingeniería de Software en la UPC y cuento con conocimientos intermedios en desarrollo web, administración y gestión de entornos LMS, análisis de tecnologías móviles y diseño y maquetación de entornos web. Me considero una persona responsalbe y empática, con capacidad para trabajar de forma colaborativa. Durante el transcurso de mi desarrollo me interesa cada vez más involucrar mis conocimientos en el ámbito educativo. Me gusta realizar actividades sociales y disfrutar el tiempo con amigos y familia.</p>
+  <p class="justificado">Soy estudiante de Ingeniería de Software en la UPC y cuento con conocimientos intermedios en desarrollo web, administración y gestión de entornos LMS, análisis de tecnologías móviles y diseño y maquetación de entornos web. Me considero una persona responsable y empática, con capacidad para trabajar de forma colaborativa. Durante el transcurso de mi desarrollo me interesa cada vez más involucrar mis conocimientos en el ámbito educativo. Me gusta realizar actividades sociales y disfrutar el tiempo con amigos y familia.</p>
 
   <p><strong>Luis Mario Gonzales Anaya</strong></p>
   <img src = "./imagenes/MarioGonzales.jpg" width="200" height="200">
