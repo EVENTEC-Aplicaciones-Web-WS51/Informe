@@ -131,8 +131,60 @@
 </ol>
 
 <h3>2.2.2 Registro de entrevistas</h3>
+
+<h3>Segmento Cliente</h3>
+<h4>Nombre: Raúl Quispe Medina</h4>
+<h4>Entrevistador: Luis Alejandro Zárate Gamarra</h4>
+<details>
+  <summary>Detalles:</summary>
+    <ul>
+    <li>Género: Masculino</li>
+    <li>Edad: 22 años</li>
+    <li>Ubicación: San Miguel</li>
+  </ul>
+</details><br>
+
+  <table style="border: 1px solid gray;">
+    <tr>
+        <td><img src="./imagenes/raulquispe.png" alt="Descripción de la imagen"></td>
+    </tr>
+    <tr><td class="justificado">El entrevistado asiste a eventos como conciertos, festivales o espectáculos en vivo varias veces al mes, siendo motivado principalmente por la calidad de los artistas o el tipo de evento, así como por la ubicación y el ambiente del lugar. Valora la confiabilidad del servicio al elegir dónde comprar sus entradas, buscando plataformas conocidas y seguras debido a experiencias negativas previas. Desea ver en una plataforma de venta de entradas recomendaciones personalizadas, mapas de asientos detallados y opciones como saltar colas y participar en actividades interactivas. Considera crucial tener acceso a información detallada sobre los eventos y las entradas disponibles. Aprueba la posibilidad de obtener recompensas o descuentos por asistir a eventos regularmente y prefiere comprar entradas a través de una plataforma de venta de entradas debido a su conveniencia y capacidad para comparar precios. La seguridad y la conveniencia en las opciones de pago son fundamentales, así como medidas de seguridad y privacidad en línea, como la protección de datos personales y la autenticación de dos factores.
+</td></tr>
+    <tr><td>Link de la entrevista: <a href="https://youtu.be/r0Uu0f3oFPU">https://youtu.be/r0Uu0f3oFPU</a></td></tr>
+  </table>
+
 <h3>Segmento Organizador de evento</h3>
+<h4>Nombre: Jordy Muñoz Salcedo</h4>
+<h4>Entrevistador: Piero Jhoynner Muñoz Salcedo</h4>
+<details>
+  <summary>Detalles:</summary>
+    <ul>
+    <li>Género: Masculino</li>
+    <li>Edad: 24 años</li>
+    <li>Ubicación: Cercado de Lima</li>
+  </ul>
+</details><br>
+
+  <table style="border: 1px solid gray;">
+    <tr>
+        <td><img src="./imagenes/fotoentrevistajordy.JPG" alt="Descripción de la imagen"></td>
+    </tr>
+    <tr><td class="justificado">En la entrevista Jordy nos cuenta que uno de los problemas que tiene al organizar un evento es la fuerte competencia, y que las estrategias que utiliza si bien le funcionan, no logra captar el público que espera.Además comenta que considera viable utilizar una plataforma web que facilite la compra de entradas e incorpore medios de pago como visa, bcp y otros medios de pagos conocidos. También indica que quisiera confiabilidad y seguridad en las plataformas web para que sus asistentes puedan comprar sus entradas de manera segura. Indica que quisiera que esta plataforma cuente con un sistemas optimo para que recopile la informacion de pago, y un asesoramiento para manipular esa información. Comenta que unas de sus estrategias es contratar cantantes o  animadores que puedan crear una mejor experiencia a sus asistentes.Considera que los datos son importantes para estudiar el comportamiento del publico y la rentabilidad del evento. Comenta que no es tan común que la gente pague sus entrada y no asista al evento, y que la mayoria de personas llegan tarde a este. Comenta que si bien no trabaja con ninguna plataforma web de compra de entradas, el preferiría hacerlo con las mas conocidas como passline, entre otras.
+</td></tr>
+    <tr><td>Link de la entrevista: <a href="https://www.youtube.com/watch?v=iP0pR0_jSx0">https://www.youtube.com/watch?v=iP0pR0_jSx0</a></td></tr>
+  </table>
+
+
 <h4>Nombre: Joaquin Paredes Angeles</h4>
+<h4>Entrevistador: Alessandro Joaquin Bernardo Eusebio</h4>
+<details>
+  <summary>Detalles:</summary>
+    <ul>
+    <li>Género: Masculino</li>
+    <li>Edad: 21 años</li>
+    <li>Ubicación: Cercado de Lima</li>
+  </ul>
+</details><br>
 
   <table style="border: 1px solid gray;">
     <tr>
@@ -142,10 +194,42 @@
     <tr><td>Link de la entrevista: <a href="https://www.youtube.com/watch?v=OLU-1__nHN8">https://www.youtube.com/watch?v=OLU-1__nHN8</a></td></tr>
   </table>
 
+<h3>Segmento Organizador de Eventos</h3>
+<h4>Nombre: Jesús Espinoza</h4>
+<h4>Entrevistador: Michael Stefano Carmelino Dueñas</h4>
+<details>
+  <summary>Detalles:</summary>
+    <ul>
+    <li>Género: Masculino</li>
+    <li>Edad: 19 años</li>
+    <li>Ubicación: Pueblo Libre</li>
+  </ul>
+</details><br>
+
+<table style="border: 1px solid gray;">
+    <tr>
+        <td><img src="./imagenes/entrevistaJesus.png" alt="Descripción de la imagen"></td>
+    </tr>
+    <tr><td class="justificado">En la entrevista Jesús nos cuenta sus dificultades que tiene cada vez que quiere realizar eventos, como conseguir gente que quiera ser promotora
+de sus eventos y las publicaciones que debe realizar para cada uno de ellos para atraer a público, también encontrar al público objetivo 
+aunque en la mayoría son jóvenes. Comenta que para eventos más grandes, prefiere buscar algo más genérico para atraer atención de todo
+público. Se le hace importante tener acceso a la información de participantes de sus eventos, más que todo para saber los porcentajes y 
+datos sobre como va el evento. Comenta que sus eventos siempre se llenan. Sin embargo, no suelen llegar a la hora establecida, y suelen llegar
+en horas tardías, generando miedo e incertidumbre sobre si su evento se llenará o no.</td></tr>
+    <tr><td>Link de la entrevista: <a href="https://youtu.be/kTtdDcBem4g">https://youtu.be/kTtdDcBem4g</a></td></tr>
+  </table>
+
 <h3>Segmento Cliente</h3>
 <h4>Nombre: Marco Eduardo Colca Chipana</h4>
-<h4>Edad: 23 años</h4>
-<h4>Ubicación: Lince</h4>
+<h4>Entrevistador: Luis Alejandro Zárate Gamarra</h4>
+<details>
+  <summary>Detalles:</summary>
+    <ul>
+    <li>Género: Masculino</li>
+    <li>Edad: 23 años</li>
+    <li>Ubicación: Lince</li>
+  </ul>
+</details><br>
 
 <table style="border: 1px solid gray;">
     <tr>
@@ -155,10 +239,44 @@
     <tr><td>Link de la entrevista: <a href="https://youtu.be/LGgSQhsjqQI?si=h8IUovq9bNTRS-5z">https://youtu.be/LGgSQhsjqQI?si=h8IUovq9bNTRS-5z</a></td></tr>
   </table>
 
+  
+
+
+<h3>Segmento Cliente</h3>
+<h4>Nombre: Flavio Vásquez Dorothy</h4>
+<h4>Entrevistador: Michael Stefano Carmelino Dueñas</h4>
+<details>
+  <summary>Detalles:</summary>
+    <ul>
+    <li>Género: Masculino</li>
+    <li>Edad: 19 años</li>
+    <li>Ubicación: Cercado de Lima</li>
+  </ul>
+</details><br>
+
+
+<table style="border: 1px solid gray;">
+    <tr>
+        <td><img src="./imagenes/entrevistaFlavio.png" alt="Descripción de la imagen"></td>
+    </tr>
+    <tr><td class="justificado">En la entrevista vemos como Flavio es una persona que suele asistir a ventos recurrentemente, incluso, el próximo mes ira a un concierto. Comenta que antes a comprado entradas
+    en otros lugares como facebook marketplace y que por suerte no a sufrido ninguna estafa. Prefiere comprar entradas y elije las más conocidas que hay en el país para ir a sus eventos. Y cree que lo mas
+    importante para el sistema de seguridad es poder tener algún tipo de contraseña, ya que sí le gustaría que haya una app para eventos y que tenga buen método de pago.</td></tr>
+    <tr><td>Link de la entrevista: <a href="https://youtu.be/n3ord5Jeg0c?si=u2xW-Qqrr0w6A7WW">https://youtu.be/n3ord5Jeg0c?si=u2xW-Qqrr0w6A7WW</a></td></tr>
+  </table>
+
 <h3>Segmento Cliente</h3>
 <h4>Nombre: Lizbeth Estela Gamboa Cabrera</h4>
-<h4>Edad: 20 años</h4>
-<h4>Ubicación: Los Olivos</h4>
+<h4>Entrevistador: Luis Mario Gonzales Anaya</h4>
+<details>
+  <summary>Detalles:</summary>
+    <ul>
+    <li>Género: Femenino</li>
+    <li>Edad: 20 años</li>
+    <li>Ubicación: Los Olivos</li>
+  </ul>
+</details><br>
+
 <table style="border: 1px solid gray;">
     <tr>
         <td><img src="./imagenes/Liz Gamboa.png" alt="Descripción de la imagen"></td>
@@ -167,10 +285,48 @@
     <tr><td>Link de la entrevista: <a href="https://youtu.be/VWth4gYwdHs">https://youtu.be/VWth4gYwdHs</a></td></tr>
   </table>
 
+<h4>Nombre: Alvaro Calderon Cristobal</h4>
+<h4>Entrevistador: Alessandro Joaquin Bernardo Eusebio</h4>
+<details>
+  <summary>Detalles:</summary>
+    <ul>
+    <li>Género: Masculino</li>
+    <li>Edad: 20 años</li>
+    <li>Ubicación: Huancayo</li>
+  </ul>
+</details><br>
+
+<table style="border: 1px solid gray;">
+    <tr>
+        <td><img src="./imagenes/EntrevistaCalde.png" alt="Descripción de la imagen"></td>
+    </tr>
+    <tr><td class="justificado">El entrevistado compartió experiencias pasadas, incluyendo problemas técnicos durante el proceso de compra y la ocurrencia de cargos ocultos, lo que subraya la importancia de mejorar la transparencia y la funcionalidad en las plataformas de venta de entradas. Además, expresó el deseo de acceder a información detallada sobre eventos y opciones de entradas, así como la posibilidad de recibir recompensas por su fidelidad como cliente. La seguridad y la privacidad en línea también fueron aspectos cruciales, destacando la necesidad de medidas sólidas para proteger la información personal y financiera durante las transacciones en línea. En resumen, la entrevista proporcionó una comprensión exhaustiva de las expectativas y preocupaciones de un consumidor exigente en el mercado de eventos en vivo.</td></tr>
+    <tr><td>Link de la entrevista: <a href="https://www.youtube.com/watch?v=n-AxQBOF04A&ab">https://www.youtube.com/watch?v=n-AxQBOF04A&ab</a></td></tr>
+  </table>
+
+  <h4>Nombre: Renato Nazario Begazo</h4>
+<h4>Entrevistador: Piero Jhoynner Muñoz Salcedo</h4>
+<details>
+  <summary>Detalles:</summary>
+    <ul>
+    <li>Género: Masculino</li>
+    <li>Edad: 22 años</li>
+    <li>Ubicación: Lima</li>
+  </ul>
+</details><br>
+
+<table style="border: 1px solid gray;">
+    <tr>
+        <td><img src="./imagenes/entrevista piero.PNG" alt="Descripción de la imagen"></td>
+    </tr>
+    <tr><td class="justificado">En la entrevista renato nos comenta que frecuenta muchos eventos al mes, ya sea eventos universitarios, conciertos o dicotecas. El afirma que le motiva y le llama atención las ofertas o descuentos para adquirir sus entradas. Indica que a la hora de comprar quisiera que la plataforma de venta de entradas entradas sea seguro e integro. Comenta que el unico inconveniente que tiene con las compra de entradas en plataformas es la saturación de esta. Ademas, Le parecería factible que se pueda visualizar la disponibilidad de las entradas en tiempo real en la plataforma. Considera importante obtener información detallada e intuitiva en las plataformas de venta de entradas. Es muy importante para el considerar la seguridad de pago a la hora de ingresar sus datos, ademas, le gustaria que hayan diversos metodos de pago. Respecto a las medidas de seguridad, considera muy seguro el pago efectivo o paypal, ya que este metodo de pago evitaria compartir sus datos finacieros por paginas que no les genera total seguridad.</td></tr>
+    <tr><td>Link de la entrevista: <a href="https://www.youtube.com/watch?v=6nz1Y9Z7brA">https://www.youtube.com/watch?v=6nz1Y9Z7brA</a></td></tr>
+  </table>
 
 
 
 <h3>2.2.3 Análisis de entrevistas</h3>
+
 <h3>Organizador de Eventos:</h3>
     <ul>
         <li>Se destacan los desafíos actuales del mercado de eventos, como la saturación y la incertidumbre en la asistencia.</li>
@@ -210,9 +366,34 @@
         <li>Recomendaciones personalizadas y opciones de pago seguras para clientes</li>
   </ul>
 
+<p>En el análisis de las preferencias y expectativas de los jóvenes respecto a su ocio nocturno, es importante considerar los hallazgos de investigaciones como las realizadas por el Injuve y el Centro Reina Sofía sobre Adolescencia y Juventud. Estos estudios indican que, a lo largo de la última década, la sensación de ruptura con el tiempo ordinario ha sido el significado más destacado para la noche del fin de semana, identificado por casi la mitad de los jóvenes encuestados. Sin embargo, se observa un aumento en el número de jóvenes que consideran que salir de noche es similar a hacerlo durante el día, lo que podría indicar una transformación en las percepciones sobre el ocio nocturno. Según datos proporcionados, en 2003, un 13,8% estaba de acuerdo con esta afirmación, pasando en 2015 a un 15% (<em>Fuente: Elaboración propia a partir de datos del Injuve y del Centro Reina Sofía sobre Adolescencia y Juventud</em>).</p>
+
+<p>Este cambio en las percepciones podría tener implicaciones significativas para la industria de eventos y venta de entradas, ya que afectaría las motivaciones de los jóvenes para asistir a eventos nocturnos. Además, los datos sugieren que la sensación de libertad ha ido ganando importancia en los últimos años, lo que podría reflejar una evolución en las expectativas y prioridades de los jóvenes en relación con su tiempo de ocio. Según los datos recabados, la sensación de libertad se situó como el segundo significado más relevante en 2015, con un 47% de los encuestados que la identificaron como importante (<em>Fuente: Elaboración propia a partir de datos del Centro Reina Sofía sobre Adolescencia y Juventud</em>).</p>
+
+<img src="./imagenes/analisis1.png">
+
+<p>En este contexto, es crucial considerar cómo estas tendencias pueden influir en la planificación y promoción de eventos, así como en el diseño de plataformas de venta de entradas. Por ejemplo, los organizadores de eventos podrían adaptar sus estrategias de marketing para destacar la sensación de libertad y la oportunidad de experimentar algo diferente durante la noche. Asimismo, las plataformas de venta de entradas podrían incorporar características que mejoren la personalización y la integración con redes sociales, lo que podría atraer a un público joven que valora la conexión digital y la expresión individual.</p>
+
+<img src="./imagenes/analisis2.png">
+
+<p>En resumen, comprender las expectativas cambiantes de los jóvenes respecto a su ocio nocturno es fundamental para adaptarse a las tendencias del mercado y satisfacer las necesidades de los clientes. Las investigaciones citadas proporcionan una base sólida para entender estas dinámicas y orientar las estrategias de negocio en la industria del entretenimiento y los eventos.</p>
+
+<img src="./imagenes/analisis3.png">
+<img src="./imagenes/analisis4.png">
+
+<p>Estos puntos resaltan la importancia de garantizar la seguridad, ofrecer opciones de personalización y conveniencia, e integrar características sociales y analíticas en una plataforma de venta de entradas. Además, destacan la relevancia de considerar las preferencias cambiantes de los jóvenes en relación con su ocio nocturno, como lo sugieren los datos proporcionados por el Injuve y el Centro Reina Sofía sobre Adolescencia y Juventud.</p>
+  
+  <h3>Análsis estadístico</h3>
+  <ul>
+        <li>A continuacion mostramos los principales problemas que nuestros entrevistados consideran en un servicio de venta de entradas:</li>
+        <img src="./imagenes/analisisEstadistico1.png">
+      <p>Descripcion: </p>
+  </ul>
+
 <p>Estos puntos resaltan la importancia de garantizar la seguridad, ofrecer opciones de personalización y conveniencia, e integrar características sociales y analíticas en una plataforma de venta de entradas.</p>
 
 
+   
     
 <h2>2.3 Needfinding</h2>
 <h3>2.3.1 User Personas</h3>
