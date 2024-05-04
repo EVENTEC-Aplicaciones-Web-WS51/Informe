@@ -286,19 +286,19 @@ Registro de Evento Confirmado:
             <tbody>
                 <tr>
                     <td>Date</td>
-                    <td>3/05/2024</td>
+                    <td>25/04/2024</td>
                 </tr>
                 <tr>
                     <td>Time</td>
-                    <td>00:00 am</td>
+                    <td>10:00 am</td>
                 </tr>
                 <tr>
                     <td>Location</td>
-                    <td>Google Meet</td>
+                    <td>Discord</td>
                 </tr>
                 <tr>
                     <td>Prepared By</td>
-                    <td>Godofredo Quispe Tipo</td>
+                    <td>Luis Alejandro Zárate Gamarra</td>
                 </tr>
                 <tr>
                     <td>Attendees (to planning meeting)</td>
