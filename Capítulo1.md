@@ -94,6 +94,9 @@ Luis Alejandro, Zárate Gamarra - U20181H198
                 <li><strong>Jeremi Jose Antonio Fretel</strong></li>
                 <p><strong>TB1</strong></p>
                 <p>En el proyecto me encargue de comentar y explicar los métodos junto a las apps que utilizamos en todo el proyecto, por eso me encargue del Software Configuration Management y sus implementaciones, entre ellos está el Software Development Environment Configuration, Source Code Management, Source Code Style Guide & Conventions y por último el Software Deployment Configuration.</p>
+                <strong>TP1</strong>
+                    <p>
+                    En el contexto del desarrollo de nuestro proyecto de ingeniería para una app que realiza la venta de entradas, fui el responsable de diseñar e intentar implementar la funcionalidad de detalles de un evento y la confirmación de dicho evento. Además, durante la comunicación de mis resultados y mi posible idea de implementación, me esforcé en su realización, además intente ser objetivo y claro para que el proceso de la interacción no sea complicado para el usuario.
                 <li><strong>Luis Alejandro Zárate Gamarra</strong>
                   <p>
                     <strong>TB1</strong>
@@ -142,6 +145,9 @@ Luis Alejandro, Zárate Gamarra - U20181H198
                         <strong>TB1</strong>
                         <p>Tuve la responsabilidad de comentar y explicar los métodos y aplicaciones que utilizamos a lo largo de todo el proyecto. Por lo tanto, me ocupé del Control de Configuración de Software y sus implementaciones, que incluyen la Configuración del Entorno de Desarrollo de Software, la Gestión del Código Fuente, la Guía de Estilo y Convenciones del Código Fuente, y por último, la Configuración del Despliegue de Software.</p>
                     </p>
+                    <strong>TP1</strong>
+                    <p>
+                   En el marco del desarrollo de nuestro proyecto de ingeniería para una aplicación dedicada a la venta de entradas, tuve a mi cargo el diseño e intento de implementación de dos funciones clave: los detalles de un evento y la confirmación de la compra de entradas para dicho evento. Durante la presentación de mis resultados y propuestas de implementación, me esforcé por ser objetivo y claro, buscando simplificar el proceso de interacción para el usuario.
                 </li>
                     <li><strong>Godofredo Quispe Tipo</strong>
                     <p>
