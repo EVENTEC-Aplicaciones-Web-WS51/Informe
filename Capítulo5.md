@@ -634,7 +634,7 @@ Debido a que estamos en la etapa de desarrollo del frontend de la aplicación we
      <th>US-01</th>
      <th>Creación de Cuenta</th>
      <th>W-01</th>
-     <th>Crear una cuenta en la plataforma como usuario nuevo </th>
+     <th>Crear una cuenta en la plataforma como usuario nuevo</th>
      <th>Como usuario nuevo, quiero poder crear una cuenta ingresando mis datos para acceder a MyEvent.
      <th>1 hour</th>
      <th>Michael</th>
@@ -652,9 +652,9 @@ Debido a que estamos en la etapa de desarrollo del frontend de la aplicación we
    </tr>
    <tr>
      <th>US-03</th>
-     <th>Iniciar Sesión con Correo y Contraseña/th>
+     <th>Iniciar Sesión con Correo y Contraseña</th>
      <th>W-03</th>
-     <th>Iniciar sesion una vez creada tu cuenta </th>
+     <th>Iniciar sesion una vez creada tu cuenta</th>
      <th>Como usuario registrado, quiero poder iniciar sesión utilizando mi correo electrónico y contraseña en MyEvent.
      <th>1 hour</th>
      <th>Michael</th>
@@ -665,8 +665,7 @@ Debido a que estamos en la etapa de desarrollo del frontend de la aplicación we
      <th>Visualización de Opciones para Usuarios no Premium</th>
      <th>W-04</th>
      <th>Ventana de información acerca del servicio premium</th>
-     <th>Como usuario estándar, quiero poder ver las ventajas y costos de la membresía premium en MyEvent.
-     </th>
+     <th>Como usuario estándar, quiero poder ver las ventajas y costos de la membresía premium en MyEvent.</th>
      <th>2 hours</th>
      <th>Michael</th>
      <th>Done</th>
@@ -677,7 +676,7 @@ Debido a que estamos en la etapa de desarrollo del frontend de la aplicación we
      <th>W-05</th>
      <th>Vista para que los usuarios vean su informacion de pefil y puedan gestionarlos</th>
      <th>Como usuario registrado, quiero poder ver mi perfil en MyEvent para gestionar mis datos personales.
-        <th>1 hour</th>
+     <th>1 hour</th>
      <th>Michael</th>
      <th>Done</th>
    </tr>
@@ -686,20 +685,17 @@ Debido a que estamos en la etapa de desarrollo del frontend de la aplicación we
      <th>Gestión de Sesión y Contraseña</th>
      <th>W-06</th>
      <th>Cerrar Sesion y cambio de contraseña</th>
-     <th>Como usuario registrado, quiero poder cerrar sesión y cambiar mi contraseña en MyEvent para mantener la seguridad de mi cuenta.
-    </th>
+     <th>Como usuario registrado, quiero poder cerrar sesión y cambiar mi contraseña en MyEvent para mantener la seguridad de mi cuenta.</th>
      <th>1 hour</th>
      <th>Michael</th>
      <th>Done</th>
    </tr>
- 
    <tr>
      <th>US-07</th>
      <th>Detalles del evento</th>
      <th>W-07</th>
      <th>Información relevante de los eventos existentes</th>
-     <th>Como usuario interesado en un evento, quiero poder ver todos los detalles relevantes del mismo, incluyendo la fecha, hora, lugar, artistas o participantes, descripción del evento y opciones de boletos disponibles, para tomar una decisión informada sobre mi asistencia.
-    </th>
+     <th>Como usuario interesado en un evento, quiero poder ver todos los detalles relevantes del mismo, incluyendo la fecha, hora, lugar, artistas o participantes, descripción del evento y opciones de boletos disponibles, para tomar una decisión informada sobre mi asistencia</th>
      <th>2 hours</th>
      <th>Alessandro</th>
      <th>Done</th>
@@ -710,7 +706,7 @@ Debido a que estamos en la etapa de desarrollo del frontend de la aplicación we
      <th>W-08</th>
      <th>Adquirir boletos de un evento favorito</th>
      <th>Como usuario que desea asistir a un evento, quiero poder seleccionar la cantidad y el tipo de boletos que deseo comprar, ingresar mis datos personales, seleccionar el método de pago y completar la transacción de compra de manera segura y sin problemas.
-        <th>2 hours</th>
+     <th>2 hours</th>
      <th>Alessandro</th>
      <th>Done</th>
    </tr>
