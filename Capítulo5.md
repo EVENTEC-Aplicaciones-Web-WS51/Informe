@@ -637,7 +637,7 @@ Debido a que estamos en la etapa de desarrollo del frontend de la aplicación we
      <th>Crear una cuenta en la plataforma como usuario nuevo</th>
      <th>Como usuario nuevo, quiero poder crear una cuenta ingresando mis datos para acceder a MyEvent.
      <th>1 hour</th>
-     <th>Michael</th>
+     <th>Mario</th>
      <th>Done</th>
    </tr>
    <tr>
@@ -647,7 +647,7 @@ Debido a que estamos en la etapa de desarrollo del frontend de la aplicación we
      <th>Selecciona tu rol usuario nuevo</th>
      <th>Como usuario nuevo, quiero poder seleccionar mi rol (organizador o comprador) al registrarme en MyEvent.</th>
      <th>1 hour</th>
-     <th>Michael</th>
+     <th>Luis</th>
      <th>Done</th>
    </tr>
    <tr>
@@ -657,7 +657,7 @@ Debido a que estamos en la etapa de desarrollo del frontend de la aplicación we
      <th>Iniciar sesion una vez creada tu cuenta</th>
      <th>Como usuario registrado, quiero poder iniciar sesión utilizando mi correo electrónico y contraseña en MyEvent.
      <th>1 hour</th>
-     <th>Michael</th>
+     <th>Jeremy</th>
      <th>Done</th>
    </tr>
    <tr>
@@ -667,7 +667,7 @@ Debido a que estamos en la etapa de desarrollo del frontend de la aplicación we
      <th>Ventana de información acerca del servicio premium</th>
      <th>Como usuario estándar, quiero poder ver las ventajas y costos de la membresía premium en MyEvent.</th>
      <th>2 hours</th>
-     <th>Michael</th>
+     <th>Mario</th>
      <th>Done</th>
    </tr>
    <tr>
@@ -677,7 +677,7 @@ Debido a que estamos en la etapa de desarrollo del frontend de la aplicación we
      <th>Vista para que los usuarios vean su informacion de pefil y puedan gestionarlos</th>
      <th>Como usuario registrado, quiero poder ver mi perfil en MyEvent para gestionar mis datos personales.
      <th>1 hour</th>
-     <th>Michael</th>
+     <th>Luis</th>
      <th>Done</th>
    </tr>
    <tr>
@@ -687,7 +687,7 @@ Debido a que estamos en la etapa de desarrollo del frontend de la aplicación we
      <th>Cerrar Sesion y cambio de contraseña</th>
      <th>Como usuario registrado, quiero poder cerrar sesión y cambiar mi contraseña en MyEvent para mantener la seguridad de mi cuenta.</th>
      <th>1 hour</th>
-     <th>Michael</th>
+     <th>Mario</th>
      <th>Done</th>
    </tr>
    <tr>
@@ -697,7 +697,7 @@ Debido a que estamos en la etapa de desarrollo del frontend de la aplicación we
      <th>Información relevante de los eventos existentes</th>
      <th>Como usuario interesado en un evento, quiero poder ver todos los detalles relevantes del mismo, incluyendo la fecha, hora, lugar, artistas o participantes, descripción del evento y opciones de boletos disponibles, para tomar una decisión informada sobre mi asistencia</th>
      <th>2 hours</th>
-     <th>Alessandro</th>
+     <th>Jeremy</th>
      <th>Done</th>
    </tr>
    <tr>
@@ -707,7 +707,7 @@ Debido a que estamos en la etapa de desarrollo del frontend de la aplicación we
      <th>Adquirir boletos de un evento favorito</th>
      <th>Como usuario que desea asistir a un evento, quiero poder seleccionar la cantidad y el tipo de boletos que deseo comprar, ingresar mis datos personales, seleccionar el método de pago y completar la transacción de compra de manera segura y sin problemas.
      <th>2 hours</th>
-     <th>Alessandro</th>
+     <th>Mario</th>
      <th>Done</th>
    </tr>
 
@@ -718,7 +718,7 @@ Debido a que estamos en la etapa de desarrollo del frontend de la aplicación we
      <th>Confirmación de compra de boletos</th>
      <th>Como usuario que ha realizado una compra de boletos, quiero recibir una confirmación clara y visualmente atractiva de que mi pago ha sido exitoso, incluyendo detalles como el número de orden, la cantidad de boletos comprados y cualquier información adicional relevante, para tener la tranquilidad de que mi compra ha sido procesada correctamente.
         <th>1 hours</th>
-     <th>Alessandro</th>
+     <th>Luis</th>
      <th>Done</th>
    </tr>
    <tr>
@@ -728,7 +728,7 @@ Debido a que estamos en la etapa de desarrollo del frontend de la aplicación we
      <th>Información relevante en caso de rechazo de transacción</th>
      <th>Como usuario que ha intentado realizar una compra de boletos, quiero ser notificado de manera clara y comprensible en caso de que mi pago haya sido rechazado, incluyendo información sobre el motivo del rechazo y posibles acciones que pueda tomar para resolver el problema, para poder intentar nuevamente realizar la compra de manera exitosa o buscar alternativas de pago.
         <th>1 hour</th>
-     <th>Alessandro</th>
+     <th>Jeremy</th>
      <th>Done</th>
    </tr>
    <tr>
@@ -738,7 +738,7 @@ Debido a que estamos en la etapa de desarrollo del frontend de la aplicación we
      <th>validación de información al momento de la compra</th>
      <th>Como usuario que está completando el proceso de compra de boletos, quiero que se realicen validaciones en tiempo real de los datos que ingreso, incluyendo la detección de errores en campos como el correo electrónico, número de tarjeta de crédito, fecha de vencimiento, etc., para poder corregir cualquier error de manera rápida y precisa antes de finalizar la transacción.
         <th>2 hours</th>
-     <th>Alessandro</th>
+     <th>Mario</th>
      <th>Done</th>
    </tr>
    <tr>
@@ -748,7 +748,7 @@ Debido a que estamos en la etapa de desarrollo del frontend de la aplicación we
      <th>Publicación de entrada en caso de reventa</th>
      <th>Como un cliente que ya no puede asistir a un evento quiero poder publicar mis entradas en modo reventa en la plataforma, para que pueda recuperar parte o todo el dinero que gasté en la entrada.
         <th>1 hour</th>
-     <th>Mario</th>
+     <th>Luis</th>
      <th>Done</th>
    </tr>
    <tr>
@@ -758,7 +758,7 @@ Debido a que estamos en la etapa de desarrollo del frontend de la aplicación we
      <th>Retirar la entrada de reventa en caso ya no desee revender</th>
      <th>Como un cliente que ha publicado una entrada para reventa quiero poder retirar la entrada del mercado de reventa en cualquier momento, para poder utilizarla si cambio de opinión.
         <th>1 hour</th>
-     <th>Mario</th>
+     <th>Jeremy</th>
      <th>Done</th>
    </tr>
    <tr>
@@ -778,7 +778,7 @@ Debido a que estamos en la etapa de desarrollo del frontend de la aplicación we
      <th>Informacion relevante de la entrada en reventa</th>
      <th>Como un cliente interesado en comprar una entrada revendida, quiero ver información detallada de la entrada (como la ubicación del asiento y el precio), para tomar una decisión informada antes de comprar.
         <th>1 hour</th>
-     <th>Mario</th>
+     <th>Luis</th>
      <th>Done</th>
    </tr>
    <tr>
@@ -788,7 +788,7 @@ Debido a que estamos en la etapa de desarrollo del frontend de la aplicación we
      <th>Comprar una entrada en modo reventa</th>
      <th>Como un cliente que ha encontrado una entrada adecuada quiero poder comprar la entrada revendida de forma segura a través de la plataforma, para asegurar mi lugar en el evento.
         <th>2 hours</th>
-     <th>Mario</th>
+     <th>Jeremy</th>
      <th>Done</th>
    </tr>
 
@@ -819,7 +819,7 @@ Debido a que estamos en la etapa de desarrollo del frontend de la aplicación we
      <th>Especificar el lugar del evento creado</th>
      <th>Como organizador de eventos quiero poder establecer la ubicación del evento mediante una dirección física o un enlace a un evento virtual, para que los asistentes sepan dónde se llevará a cabo.
         <th>1 hours</th>
-     <th>Luis</th>
+     <th>Jeremy</th>
      <th>Done</th>
    </tr>
    <tr>
@@ -829,7 +829,7 @@ Debido a que estamos en la etapa de desarrollo del frontend de la aplicación we
      <th>Definir especificaciones relevantes para el evento creado</th>
      <th>Como organizador de eventos quiero poder definir diferentes tipos de entradas con precios, cantidades y descripciones, para ofrecer opciones de compra adaptadas a las necesidades de los asistentes.
         <th>2 hours</th>
-     <th>Luis</th>
+     <th>Mario</th>
      <th>Done</th>
    </tr>
    <tr>
@@ -849,7 +849,7 @@ Debido a que estamos en la etapa de desarrollo del frontend de la aplicación we
      <th>definir la privacidad del evento creado</th>
      <th>Como organizador de eventos quiero poder establecer si el evento es público o privado y definir las restricciones de acceso, para controlar quién puede ver y unirse al evento.
         <th>1 hour</th>
-     <th>Luis</th>
+     <th>Jeremy</th>
      <th>Done</th>
    </tr>
    <tr>
@@ -859,7 +859,7 @@ Debido a que estamos en la etapa de desarrollo del frontend de la aplicación we
      <th>Ivitar a personas al evento creado mediante diferentes medios</th>
      <th>Como organizador de eventos quiero poder enviar invitaciones a contactos específicos por correo electrónico o mediante un enlace directo, para asegurarme de que las personas clave estén informadas y puedan asistir.
         <th>2 hours</th>
-     <th>Luis</th>
+     <th>Mario</th>
      <th>Done</th>
    </tr>
    <tr>
@@ -879,7 +879,7 @@ Debido a que estamos en la etapa de desarrollo del frontend de la aplicación we
      <th>Información relevante para comprar membresía</th>
      <th>Como comprador de boletos de la plataforma quisiera poder vizualizar los detalles de la compra de subscripcion premium para aprovechar los beneficios que ofrece este y saber si me beneficia su adquisicion
         <th>1 hour</th>
-     <th>Piero</th>
+     <th>Jeremy</th>
      <th>Done</th>
    </tr>
    <tr>
@@ -889,7 +889,7 @@ Debido a que estamos en la etapa de desarrollo del frontend de la aplicación we
      <th>Compra de la membresia premium</th>
      <th>Como comprador de boletos quisiera comprar la subscripcion premium, ingresando mis datos de manera segura, para acceder a beneficios unicos de la plataforma
         <th>2 hours</th>
-     <th>Piero</th>
+     <th>Mario</th>
      <th>Done</th>
    </tr>
    <tr>
@@ -899,7 +899,7 @@ Debido a que estamos en la etapa de desarrollo del frontend de la aplicación we
      <th>Aviso para la renovacion de mmebresía</th>
      <th>Como comprador de boletos quisiera recibir notificaciones de renovacion de membresia 7 dias antes de que caduque, para estar al tanto de ella y poder renovarla a tiempo.
         <th>1 hour</th>
-     <th>Piero</th>
+     <th>Luis</th>
      <th>Done</th>
    </tr>
    <tr>
@@ -909,7 +909,7 @@ Debido a que estamos en la etapa de desarrollo del frontend de la aplicación we
      <th>Comprar nuevamente la membresía premium</th>
      <th>Como comprador de boletos quisiera renovar la subcripcion premium mediante la ventana de mi perfil o ventana de notificaciones para seguir disfrutando de los beneficios de la plataforma
         <th>1 hour</th>
-     <th>Piero</th>
+     <th>Jeremy</th>
      <th>Done</th>
    </tr>
    <tr>
@@ -919,7 +919,7 @@ Debido a que estamos en la etapa de desarrollo del frontend de la aplicación we
      <th>cancelar la membresía premium</th>
      <th>Como comprador de boletos quisiera cancelar la subscripcion premium mediante la ventana de mi perfil y dejar de tener beneficios unicos en la plataforma
         <th>1 hour</th>
-     <th>Piero</th>
+     <th>Mario</th>
      <th>Done</th>
    </tr>
  </table>
