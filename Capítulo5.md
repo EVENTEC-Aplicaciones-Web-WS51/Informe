@@ -579,7 +579,6 @@ Debido a que estamos en la etapa de desarrollo del frontend de la aplicación we
       <th>
         Luis Alejandro, Zárate Gamarra - U20181H198
         Gonzales Anaya, Luis Mario - U20201C585
-        Godofredo, Quispe Tipo - U202120772
         Jeremi Jose, Antonio Fretel - U202219022
    </th>
     </tr>
