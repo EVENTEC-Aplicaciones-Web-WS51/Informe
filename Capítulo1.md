@@ -102,6 +102,10 @@ Luis Alejandro, Zárate Gamarra - U20181H198
                     <p>
                     En el contexto del desarrollo de nuestro proyecto de ingeniería para una aplicación de venta de entradas, fui responsable de diseñar y implementar la funcionalidad del calendario, así como de la capacidad para agregar eventos. Durante la comunicación de mis ideas y resultados, me esforcé por ser objetivo y claro, adaptando mi discurso según la audiencia, que incluía tanto a especialistas técnicos como a miembros de diferentes niveles jerárquicos dentro de la organización. Esto aseguró una comprensión efectiva y una colaboración fluida en el proyecto.
                     </p>
+                <strong>TB2</strong>
+                    <p>
+                   En el proyecto, mi responsabilidad principal fue desarrollar y comunicar los aspectos técnicos relacionados con el acceso a la membresía premium. Esto implicó diseñar y programar la interfaz de usuario (UI) y la experiencia de usuario (UX) específica para la membresía premium. También fui responsable de explicar la lógica de acceso y sus beneficios.
+                    </p>
                 </p>
                 <li><strong>Jeremi Jose Antonio Fretel</strong></li>
                 <p><strong>TB1</strong></p>
@@ -156,6 +160,10 @@ Luis Alejandro, Zárate Gamarra - U20181H198
                         <p>
                             Como parte del desarrollo de nuestro proyecto de ingeniería para una aplicación de venta de entradas y creación de eventos, trabajé en la implementación de la funcionalidad de calendario y en la opción para agregar eventos. Durante este proceso, documenté mis ideas y resultados de manera clara y objetiva, asegurando que fueran comprensibles para una audiencia diversa, incluyendo expertos técnicos y personas de diferentes niveles jerárquicos. Mi enfoque en la precisión y la claridad ayudó a que la información pudiera ser utilizada eficazmente para la toma de decisiones y la colaboración entre equipos.
                         </p>
+                    <strong>TB2</strong>
+                        <p>
+En el proyecto, me encargué de comunicar de forma escrita y objetiva los resultados del desarrollo del frontend para la reventa y compra de boletos a audiencias de diferentes especialidades y niveles jerárquicos. Esto incluyó la redacción de informes detallados sobre el diseño de la interfaz de usuario (UI), la experiencia de usuario (UX) y las medidas de seguridad implementadas. Además, documenté la lógica de los procesos de reventa y compra, demostrando habilidades de comunicación efectiva en un contexto de ingeniería.</p>
+                    </p>
                     </p>
                 </li>
                     <li><strong>Jeremi Jose Antonio Fretel</strong>
