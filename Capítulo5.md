@@ -978,6 +978,395 @@ Debido a que estamos en la etapa de desarrollo del frontend de la aplicación we
 <img src="./imagenes/sprint3/15.png">
 <img src="./imagenes/sprint3/16.png">
 
+<h3>5.2.3.6 Services Documentation Evidence for Sprint Review</h3>
+<table>
+  <thead>
+    <tr>
+      <th>Endpoint</th>
+      <th>Verbo HTTP</th>
+      <th>Enlace</th>
+      <th>Parámetros</th>
+      <th>Response</th>
+      <th>Explicación</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>/api/v1/users/1</td>
+      <td>GET</td>
+      <td><a href="http://localhost:8080/api/v1/users/1">http://localhost:8080/api/v1/users/1</a></td>
+      <td>N/A</td>
+      <td>{"id": 1, "name": "John Doe", "email": "john.doe@example.com"}</td>
+      <td>Obtiene el usuario por ID</td>
+    </tr>
+    <tr>
+      <td>/api/v1/users/correo/ianpe@example.com</td>
+      <td>GET</td>
+      <td><a href="http://localhost:8080/api/v1/users/correo/ianpe@example.com">http://localhost:8080/api/v1/users/correo/ianpe@example.com</a></td>
+      <td>N/A</td>
+      <td>{"id": 2, "name": "Ian Perez", "email": "ianpe@example.com"}</td>
+      <td>Obtiene el usuario por correo</td>
+    </tr>
+    <tr>
+      <td>/api/v1/users/name/Emily/surname/Davis</td>
+      <td>GET</td>
+      <td><a href="http://localhost:8080/api/v1/users/name/Emily/surname/Davis">http://localhost:8080/api/v1/users/name/Emily/surname/Davis</a></td>
+      <td>N/A</td>
+      <td>{"id": 3, "name": "Emily Davis", "email": "emily.davis@example.com"}</td>
+      <td>Obtiene el usuario por nombre y apellido</td>
+    </tr>
+    <tr>
+      <td>/api/v1/users</td>
+      <td>GET</td>
+      <td><a href="http://localhost:8080/api/v1/users">http://localhost:8080/api/v1/users</a></td>
+      <td>N/A</td>
+      <td>[{"id": 1, "name": "John Doe", "email": "john.doe@example.com"}, {"id": 2, "name": "Ian Perez", "email": "ianpe@example.com"}]</td>
+      <td>Obtiene todos los usuarios</td>
+    </tr>
+    <tr>
+      <td>/correo/ianpe@example.2</td>
+      <td>DELETE</td>
+      <td><a href="http://localhost:8080/correo/ianpe@example.2">http://localhost:8080/correo/ianpe@example.2</a></td>
+      <td>{"name": "Ian Perez", "password": "examplePassword"}</td>
+      <td>{"message": "Usuario eliminado exitosamente"}</td>
+      <td>Elimina el usuario por nombre y contraseña</td>
+    </tr>
+    <tr>
+      <td>/api/v1/users/change-password/3/emilyfddfdavis@example.com</td>
+      <td>PUT</td>
+      <td><a href="http://localhost:8080/api/v1/users/change-password/3/emilyfddfdavis@example.com">http://localhost:8080/api/v1/users/change-password/3/emilyfddfdavis@example.com</a></td>
+      <td>{"password": "nuevaContra2"}</td>
+      <td>{"message": "Contraseña actualizada exitosamente"}</td>
+      <td>Actualiza la contraseña por ID y correo</td>
+    </tr>
+    <tr>
+      <td>/api/v1/users/change-name/9/jesus@gmail.com</td>
+      <td>PUT</td>
+      <td><a href="http://localhost:8080/api/v1/users/change-name/9/jesus@gmail.com">http://localhost:8080/api/v1/users/change-name/9/jesus@gmail.com</a></td>
+      <td>{"password": "huawei", "name": "Enrique"}</td>
+      <td>{"message": "Nombre actualizado exitosamente"}</td>
+      <td>Cambia el nombre del usuario</td>
+    </tr>
+    <tr>
+      <td>/api/v1/events/create</td>
+      <td>POST</td>
+      <td><a href="http://localhost:8080/api/v1/events/create">http://localhost:8080/api/v1/events/create</a></td>
+      <td>
+        {"name": "Concierto de Rock", "date": "2024-06-15", "organizer": "Rock Productions", "location": "Estadio Central", "resale": true, "description": "¡Ven y disfruta de una noche llena de música rockera!", "price": 25.99, "capacity": 1000, "image": "https://ejemplo.com/imagen.jpg", "category": "Conciertos", "eventApiKey": "tu_clave_de_API"}
+      </td>
+      <td>{"message": "Evento creado exitosamente"}</td>
+      <td>Inserta un nuevo evento</td>
+    </tr>
+    <tr>
+      <td>/api/v1/events</td>
+      <td>GET</td>
+      <td><a href="http://localhost:8080/api/v1/events">http://localhost:8080/api/v1/events</a></td>
+      <td>N/A</td>
+      <td>
+        [
+          {"id": 1, "name": "Concierto de Rock", "date": "2024-06-15", "organizer": "Rock Productions", "location": "Estadio Central"},
+          {"id": 2, "name": "Festival de Jazz", "date": "2024-07-10", "organizer": "Jazz Fest", "location": "Parque Central"}
+        ]
+      </td>
+      <td>Obtiene todos los eventos</td>
+    </tr>
+    <tr>
+      <td>/api/v1/events/name/Concierto de Rock</td>
+      <td>GET</td>
+      <td><a href="http://localhost:8080/api/v1/events/name/Concierto%20de%20Rock">http://localhost:8080/api/v1/events/name/Concierto%20de%20Rock</a></td>
+      <td>N/A</td>
+      <td>{"id": 1, "name": "Concierto de Rock", "date": "2024-06-15", "organizer": "Rock Productions", "location": "Estadio Central"}</td>
+      <td>Obtiene evento por nombre</td>
+    </tr>
+    <tr>
+      <td>/api/v1/events/name/Concierto de Rock/organizer/Rock Productions</td>
+      <td>GET</td>
+      <td><a href="http://localhost:8080/api/v1/events/name/Concierto%20de%20Rock/organizer/Rock%20Productions">http://localhost:8080/api/v1/events/name/Concierto%20de%20Rock/organizer/Rock%20Productions</a></td>
+      <td>N/A</td>
+      <td>{"id": 1, "name": "Concierto de Rock", "date": "2024-06-15", "organizer": "Rock Productions", "location": "Estadio Central"}</td>
+      <td>Obtiene evento por nombre y organizador</td>
+    </tr>
+    <tr>
+      <td>/api/v1/events/3</td>
+      <td>DELETE</td>
+      <td><a href="http://localhost:8080/api/v1/events/3">http://localhost:8080/api/v1/events/3</a></td>
+      <td>N/A</td>
+      <td>{"message": "Evento eliminado exitosamente"}</td>
+      <td>Elimina el evento por ID</td>
+    </tr>
+    <tr>
+      <td>/api/v1/events/6</td>
+      <td>PUT</td>
+      <td><a href="http://localhost:8080/api/v1/events/6">http://localhost:8080/api/v1/events/6</a></td>
+      <td>
+        {"name": "Concierto de Rock Actualizado", "date": "2024-06-20", "organizer": "Rock Productions Actualizado", "location": "Estadio Central Actualizado", "resale": false, "description": "¡Ven y disfruta de una noche llena de música rockera actualizada!", "price": 35.99, "capacity": 1500, "image": "https://ejemplo.com/imagen_actualizada.jpg", "category": "Conciertos Actualizados", "eventApiKey": "tu_clave_de_API_actualizada"}
+      </td>
+      <td>{"message": "Evento actualizado exitosamente"}</td>
+      <td>Actualiza un evento</td>
+    </tr>
+    <tr>
+      <td>/new-request</td>
+      <td>GET</td>
+      <td>N/A</td>
+      <td>N/A</td>
+      <td>{"message": "Nueva solicitud realizada exitosamente"}</td>
+      <td>Nueva solicitud</td>
+    </tr>
+  </tbody>
+</table>
+
+<h3>5.2.3.7 Software Deployment Evidence for Sprint Review</h3>
+<p>Hemos deployeado nuestra base de datos y logramos hacer un post dentro de la base de datos deployeada.</p>
+<img src="./imagenes/sprint3/SoftwareDeploymentEvidence.png">
+
+<h3>5.2.3.8 Team Collaboration Insights during Sprint</h3>
+<p>Para el trabajo colaborativo nos ayudamos de la herramienta Github y de las ramas y commits que se podían hacer. Además de los merge que unen toda nuestra parte del trabajo.</p>
+<img src="./imagenes/sprint3/insights-sprint3.png">
+
+<h2>5.3 Validation Interviews</h2>
+    <h3>5.3.1. Diseño de Entrevistas.</h3>
+    <p><strong>Segmento Cliente:</strong></p>
+    <ol>
+        <li>¿Qué tan llamativa te resulta nuestra página web?</li>
+        <li>¿Qué tan fácil te resulta registrarte e iniciar sesión?</li>
+        <li>¿Qué te parece que te muestre al iniciar sesión una oferta para acceder a la versión premium de nuestra aplicación web?</li>
+        <li>¿Puedes encontrar toda la información necesaria sobre un evento al hacer clic en él?</li>
+        <li>¿Qué tan intuitivo te parece el proceso de selección y compra de entradas?</li>
+        <li>¿Has tenido alguna dificultad al intentar transferir entradas a otro usuario?</li>
+        <li>¿Encuentras algunas imperfecciones en nuestra plataforma?</li>
+    </ol>
+    <p><strong>Segmento Organizador:</strong></p>
+    <ol>
+        <li>
+            <p>¿Qué tan intuitivo y sencillo te resultó el proceso de creación de cuenta y gestión de tu perfil? ¿Hay alguna característica o funcionalidad que crees que falta o podría mejorarse?</p>
+        </li>
+        <li>
+            <p>¿Cómo fue tu experiencia al crear y personalizar un evento en la plataforma? ¿Encontraste todas las opciones que necesitabas para ofrecer una experiencia única a los asistentes?</p>
+        </li>
+        <li>
+            <p>¿Qué tan fácil te resultó acceder a la información detallada de los eventos y realizar la compra de entradas? ¿Hubo algún aspecto de la experiencia de compra que te gustaría que fuera diferente o mejorado?</p>
+        </li>
+        <li>
+            <p>¿Qué tipo de estadísticas y análisis te gustaría ver sobre la participación en tus eventos? ¿Cómo crees que esta información te ayudaría a evaluar el éxito de tus eventos y a mejorar la planificación futura?</p>
+        </li>
+        <li>
+            <p>¿Qué te parece la opción de que los clientes puedan revender sus entradas a eventos directamente en la plataforma? ¿Cómo crees que esta funcionalidad impactaría en la asistencia y el manejo de las entradas para los eventos que organizas?</p>
+        </li>
+    </ol>
+    
+  <h3>5.3.2 Registro de entrevistas</h3>
+
+<h3>Segmento Organizador de Eventos</h3>
+<h4>Nombre: Fernando André Cipriano</h4>
+<h4>Entrevistador: Piero Jhoynner Muñoz Salcedo</h4>
+<details>
+  <summary>Detalles:</summary>
+    <ul>
+    <li>Género: Masculino</li>
+    <li>Edad: 25 años</li>
+    <li>Ubicación: Cercado de Lima</li>
+  </ul>
+</details><br>
+
+  <table style="border: 1px solid gray;">
+    <tr>
+        <td><img src="./imagenes/foto entrevista A.PNG" alt="Descripción de la imagen"></td>
+    </tr>
+    <tr><td class="justificado">El entrevistado, quien es organizador de eventos, navegó en nuestra plataforma web y de momento nos comenta que le parecio util e intuitivo el inicio de sesion, y facil al momento de registrarse, afirma que podria mejorar añadiendo informacion en su perfil con relacion al historial de eventos pasados. Nos cuenta que tuvo una buena experiencia al momento de crear un evento y considera fundamental las invitaciones por medio de redes sociales. Ademas, considera que la compra de entradas son faciles y estan bien implementadas y lo unico que le gustaria añadir es el guardado de informacion de pago para mayor facilidad al momento de comprar entradas. Por otro lado, le gustaria que hubieran estadisticas detallas de la participacion e interaccion de las personas que asisten a los eventos para que así pueda tomar deciciones mas estrategicas para futuras fechas. Nos indica que la opcion de revender entradas lo considera muy bueno y no cree que el impacto que tiene fuese negativo, ya que esto aseguraria que el evento tenga mas asistentes, sin desperdiciar alguna entrada.
+</td></tr>
+    <tr><td>Link de la entrevista: <a href="https://www.youtube.com/watch?v=zWS4qhYYFmY">https://www.youtube.com/watch?v=zWS4qhYYFmY</a></td></tr>
+  </table>  
+    <h4>Segmento Organizador de eventos</h4>
+    <h4>Nombre: Joaquin Paredes</h4>
+    <img src="./imagenes/VI1.png" width="400" height="200">
+    <p><strong>Link del video: </strong> https://upcedupe-my.sharepoint.com/:v:/g/personal/u202113640_upc_edu_pe/EYxoxcwfW-xGstj_LsHO4OAB-mEsaPiV-p0wKHfwKRk-8w?e=ofvHp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D</p>
+    <p>Joaquin como organizador de eventos esta satisfecho con MyEvent, encontrando la plataforma fácil de usar y efectiva. Las sugerencias para mejoras incluyen más opciones de personalización, plantillas prediseñadas para eventos y una opción de 'wishlist' para la compra de entradas. La reventa de entradas es vista como una funcionalidad positiva que puede mejorar la asistencia y la gestión de eventos.</p>
+
+
+   <h3>Segmento Comprador de Entradas</h3>
+<h4>Nombre: Nickol Ariana Sandoval</h4>
+<h4>Entrevistador: Piero Jhoynner Muñoz Salcedo</h4>
+<details>
+  <summary>Detalles:</summary>
+    <ul>
+    <li>Género: Femenino</li>
+    <li>Edad: 22 años</li>
+    <li>Ubicación: Cercado de Lima</li>
+  </ul>
+</details><br>
+
+  <table style="border: 1px solid gray;">
+    <tr>
+        <td><img src="./imagenes/entrevista B.PNG" alt="Descripción de la imagen"></td>
+    </tr>
+    <tr><td class="justificado">La entrevistada indica que la plataforma le parecio fabulosa e intuitiva, ademas detallo que el modo de registrarse le parece muy seguro ya que le piden el DNI como medio de registro, ademas le parecio exelente la vista de adquirir membresia premium, ya que los descuentos hacen llamativo a la plataforma web. Indica que al hacer click en un evento le permite ver toda la informacion de esta para convenserse de su compra, ademas nos comenta que le parece facil la adquisicion entradas, ya que los datos que piden son muy pertinentes. Comenta que nunca tuvo la oportunidad de revender una entrada, pero a partir de la experiencia en la plataforma le transmite mas seguridad que hacerlo por sus redes u otros medios. Lo unico que detalla como una imperfeccion es que se coloquen lo precios generales directamente en cada imagen de evento en la pagina de inicio, ya que esto hace que como comprador de entradas se animen por comprar al ver el precio de la entrada pensando que es una vip pero al ingresar a los detalles del evento solo sea para general.
+        
+</td></tr>
+    <tr><td>Link de la entrevista: <a href="https://youtu.be/pt136hPLp-A">https://youtu.be/pt136hPLp-A</a></td></tr>
+  </table>
+
+
+<h3>5.3.3 Evaluaciones según heurísticas</h3>
+</head>
+<body>
+<h4 align="center"><b>UX Heuristics & Principles Evaluation</b></h4>
+<h4 align="center"><b>Usability – Inclusive Design – Information Architecture</b></h4>
+<h5><b>CARRERA:</b> Ingeniería de Software</h5>
+<h5><b>CURSO:</b> Desarrollo de Aplicaciones Open Source</h5>
+<h5><b>SECCIÓN:</b> WS52</h5>
+<h5><b>PROFESORES:</b> Todos</h5>
+<h5><b>AUDITOR:</b> Grupo 2</h5>
+<h5><b>CLIENTE(S):</b> Gonzales Anaya, Luis Mario</h5>
+<h4>SITE o APP A EVALUAR:</b></h4>
+    <p>MyEvent</p>
+<h4>TAREAS A EVALUAR:</h5>
+<ol>
+  <li>Creación de una cuenta</li>
+  <li>Inicio de sesión</li>
+  <li>Visualización de opciones para usuarios no premium</li>
+  <li>Visualización de perfil de usuario</li>
+  <li>Gestión de sesión y contraseña</li>
+  <li>Renovación de la suscripción</li>
+  <li>Notificación de cambio de horarios de eventos</li>
+  <li>Atención prioritaria en el servicio al cliente</li>
+  <li>Recomendación personalizada sobre eventos</li>
+</ol>
+<h5>No están incluidas en esta versión de la evaluación las siguientes tareas:</h3>
+<ol>
+  <li>Detalles de los eventos</li>
+  <li>Compra de entradas</li>
+  <li>Reventa de las entradas</li>
+  <li>Compra de entradas revendidas</li>
+  <li>Creación de eventos</li>
+  <li>Gestión de entradas</li>
+  <li>Mandado de invitaciones</li>
+  <li>Publicación de eventos</li>
+</ol>
+<h4>ESCALA DE SEVERIDAD:</h4>
+<p>Los errores serán puntuados tomando en cuenta la siguiente escala de severidad:</p>
+<table>
+  <tr>
+    <th>Nivel</th>
+    <th>Descripción</th>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>Problema superficial: puede ser fácilmente superador por el usuario u ocurre con muy poca frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiempo.</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>Problema menor: puede ocurrir un poco más frecuentemente o es un poco más difícil de superar para el usuario. Se le debería asignar una prioridad baja resolverlo de cara al siguiente reléase.</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlos. Es importante que sean corregidos y se les debe asignar una prioridad alta.</td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>Problema muy grave: un error de gran impacto que impide al usuario continuar con el uso de la herramienta. Es imperativo que sea corregido antes del lanzamiento.</td>
+  </tr>
+</table>
+<h4>TABLA RESUMEN:</h4>
+<table>
+  <tr>
+    <th>#</th>
+    <th>Problema</th>
+    <th>Escala de severidad</th>
+    <th>Heurística/Principio violada(o)</th>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>Opción de “recordarme” en la zona de registro</td>
+    <td>1</td>
+    <td>Usability: Consistencia y estándares</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>Las opciones Register y Login permanecen luego de iniciar sesión</td>
+    <td>1</td>
+    <td>Usability: Feedback y estado del sistema</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>No hay zona para actualizar contraseña</td>
+    <td>1</td>
+    <td>Usability: Control y libertad del usuario</td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>Las opciones de Cancelar y Renovar suscripción aparecen incluso cuando no tienes ninguna.</td>
+    <td>1</td>
+    <td>Usability: Consistencia y estándares</td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td>La zona de compra de suscripción no acepta números de tarjeta de débito/crédito</td>
+    <td>4</td>
+    <td>Usability: Flexibilidad y eficiencia de uso</td>
+  </tr>
+  <tr>
+    <td>6</td>
+    <td>La zona de renovación de suscripción no acepta números de tarjeta de débito/crédito</td>
+    <td>4</td>
+    <td>Usability: Flexibilidad y eficiencia de uso</td>
+  </tr>
+</table>
+    
+<h4>DESCRIPCIÓN DE PROBLEMAS:</h4>
+<h5>PROBLEMA #1: Opción de “recordarme” en la zona de registro</h5>
+<p>Severidad: 1</p>
+<p>Heurística violada: Usabilidad - Consistencia y estándares</p>
+<p>Problema:<br>
+La opción de “recordarme” no sigue los estándares comunes de usabilidad en la zona de registro, lo que puede causar confusión en los usuarios que están acostumbrados a ver esta opción en la zona de inicio de sesión. Esto afecta la consistencia del diseño de la interfaz y puede reducir la confianza del usuario en el sistema.</p>
+<img src="./imagenes/sprint3/Registro.PNG">
+<p>Recomendación:<br>
+Mover la opción de “recordarme” a la zona de inicio de sesión, donde los usuarios esperan encontrarla, asegurando así una experiencia más coherente y alineada con las prácticas estándar de diseño de interfaces de usuario.</p>
+
+<h5>PROBLEMA #2: Las opciones register y login permanecen luego de iniciar sesión</h5>
+<p>Severidad: 1</p>
+<p>Heurística violada: Usabilidad - Feedback y estado del sistema</p>
+<p>Problema:<br>
+Una vez que el usuario ha iniciado sesión, las opciones para "register" y "login" siguen apareciendo en la interfaz. Esto puede causar confusión, ya que el sistema no proporciona un feedback claro del estado actual del usuario. Los usuarios pueden no estar seguros si han iniciado sesión correctamente.</p>
+<img src="./imagenes/sprint3/RegisterLogin.PNG">
+<p>Recomendación:<br>
+Ocultar las opciones de "register" y "login" después de que el usuario haya iniciado sesión y, en su lugar, mostrar opciones relevantes como "perfil" o "cerrar sesión" para reflejar correctamente el estado del sistema.</p>
+
+<h5>PROBLEMA #3: No hay zona para actualizar contraseña</h5>
+<p>Severidad: 1</p>
+<p>Heurística violada: Usabilidad - Control y libertad del usuario</p>
+<p>Problema:<br>
+No se proporciona una opción para que los usuarios actualicen su contraseña, lo que limita su capacidad para gestionar su información de seguridad. Esto es crucial para la administración de la cuenta y la seguridad personal.</p>
+<img src="./imagenes/sprint3/Contraseña.PNG">
+<p>Recomendación:<br>
+Agregar una sección en la configuración de la cuenta donde los usuarios puedan actualizar su contraseña de manera fácil y segura, proporcionando instrucciones claras y feedback durante el proceso.</p>
+
+<h5>PROBLEMA #4: La opción de cancelar y renovar suscripción aparece incluso cuando no tienes ninguna</h5>
+<p>Severidad: 1</p>
+<p>Heurística violada: Usabilidad - Consistencia y estándares</p>
+<p>Problema:<br>
+La opción para cancelar y renovar suscripción está visible incluso para usuarios que no tienen una suscripción activa. Esto puede causar confusión y lleva a una experiencia inconsistente.</p>
+<img src="./imagenes/sprint3/Contraseña.PNG">
+<p>Recomendación:<br>
+Modificar la interfaz para que la opción de cancelar y renovar suscripción solo sea visible para usuarios con suscripciones activas, mejorando así la claridad y relevancia de las opciones presentadas.</p>
+
+<h5>PROBLEMA #5: La zona de compra de suscripción no acepta números de tarjeta de débito/crédito</h5>
+<p>Severidad: 4</p>
+<p>Heurística violada: Usabilidad - Flexibilidad y eficiencia de uso</p>
+<p>Problema:<br>
+Aunque existe una zona para ingresar números de tarjeta de débito/crédito, al intentar completar la compra, se muestra un cuadro de diálogo indicando que el número de tarjeta es incorrecto. Esto frustra a los usuarios y les impide finalizar la compra, afectando la experiencia de usuario y las conversiones.</p>
+<img src="./imagenes/sprint3/Compra.PNG">
+<p>Recomendación:<br>
+Revisar y corregir el proceso de validación de números de tarjeta para asegurarse de que acepta correctamente tarjetas de débito y crédito válidas. Realizar pruebas exhaustivas para garantizar que el sistema reconozca una variedad de tarjetas y proporcionar mensajes de error claros y específicos si hay problemas con los datos ingresados.</p>
+
+<h5>PROBLEMA #6: La zona de renovación de suscripción no acepta números de tarjeta de débito/crédito</h5>
+<p>Severidad: 4</p>
+<p>Heurística violada: Usabilidad - Flexibilidad y eficiencia de uso</p>
+<p>Problema:<br>
+Similar al problema de compra de suscripción, en la zona de renovación de suscripción, aunque hay una opción para ingresar números de tarjeta de débito/crédito, el sistema muestra un cuadro de diálogo indicando que el número de tarjeta es incorrecto al intentar renovar. Esto dificulta la renovación de suscripciones y puede resultar en la pérdida de suscriptores.</p>
+<img src="./imagenes/sprint3/Compra.PNG">
+<p>Recomendación:<br>
+Corregir el proceso de validación de números de tarjeta en la zona de renovación de suscripción, asegurándose de que se acepten correctamente tarjetas de débito y crédito válidas. Realizar pruebas para asegurar la funcionalidad y proporcionar mensajes de error claros y útiles para guiar a los usuarios en caso de problemas.</p>
+
 <h1>CONCLUSIONES</h1>
 <p>Durante el desarrollo del front end para la aplicación de venta de entradas de eventos "MyEvent", se demostró un compromiso sólido con la implementación eficiente y efectiva de soluciones utilizando tecnología Angular. La elección de utilizar fake APIs a través de db.json para simular el comportamiento de las APIs reales fue una estrategia inteligente que permitió un desarrollo ágil y centrado en los requisitos del cliente. Esta decisión también facilitó la colaboración entre los desarrolladores al proporcionar un entorno controlado y predecible para probar y validar el front end.
 
