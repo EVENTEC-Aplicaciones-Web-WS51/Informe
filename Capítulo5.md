@@ -934,27 +934,19 @@ Debido a que estamos en la etapa de desarrollo del frontend de la aplicación we
         <td>Commited on (Date)</td>
     </tr>
     <tr>
-        <td>WS52-Open-Source-Grupo-2-MyEvent-Frontend-Final</td>
+        <td>EVENTEC-Aplicaciones-Web-WS51/Frontend</td>
         <td>feature/login-register</td>
-        <td>988836a83e60f0373c74a16d4e65b8f7764944f3</td>
+        <td>46760adb5ef4d58bfcab2063ca176af521718000</td>
         <td>feat: Implementación para que funcione con el backend</td>
         <td>Arreglo en el manejo de datos</td>
         <td>Commits on Jun 8, 2024</td>
     </tr>
     <tr>
-        <td>WS52-Open-Source-Grupo-2-MyEvent-Frontend-Final</td>
+        <td>EVENTEC-Aplicaciones-Web-WS51/Frontend</td>
         <td>feature/contact</td>
-        <td>30e9d005088ed29841f60e3c9a68746360db39c5</td>
+        <td>e76d5a2bda57ede8c6555ab5b7ead15c1a8b85ca</td>
         <td>feat: Cambios en la estructura de la vista - Usuario</td>
         <td>Reorganizacion de carpetas</td>
-        <td>Commits on May 30, 2024</td>
-    </tr>
-    <tr>
-        <td>WS52-Open-Source-Grupo-2-MyEvent-Backend</td>
-        <td>main</td>
-        <td>c33472470b7c2531d0b261984bac7ec876268814</td>
-        <td>feat: Creacion de las entidades event, user y sus respectivos archivos de configuracion</td>
-        <td>Creacion de la backend en general</td>
         <td>Commits on May 30, 2024</td>
     </tr>
 </table>
