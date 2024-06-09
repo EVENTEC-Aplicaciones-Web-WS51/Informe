@@ -960,6 +960,24 @@ Debido a que estamos en la etapa de desarrollo del frontend de la aplicación we
     </tr>
 </table>
 
+<h3>5.2.3.5 Execution Evidence for Sprint Review</h3>
+<img src="./imagenes/sprint3/1.png">
+<img src="./imagenes/sprint3/2.png">
+<img src="./imagenes/sprint3/3.png">
+<img src="./imagenes/sprint3/4.png">
+<img src="./imagenes/sprint3/5.png">
+<img src="./imagenes/sprint3/6.png">
+<img src="./imagenes/sprint3/7.png">
+<img src="./imagenes/sprint3/8.png">
+<img src="./imagenes/sprint3/9.png">
+<img src="./imagenes/sprint3/10.png">
+<img src="./imagenes/sprint3/11.png">
+<img src="./imagenes/sprint3/12.png">
+<img src="./imagenes/sprint3/13.png">
+<img src="./imagenes/sprint3/14.png">
+<img src="./imagenes/sprint3/15.png">
+<img src="./imagenes/sprint3/16.png">
+
 <h1>CONCLUSIONES</h1>
 <p>Durante el desarrollo del front end para la aplicación de venta de entradas de eventos "MyEvent", se demostró un compromiso sólido con la implementación eficiente y efectiva de soluciones utilizando tecnología Angular. La elección de utilizar fake APIs a través de db.json para simular el comportamiento de las APIs reales fue una estrategia inteligente que permitió un desarrollo ágil y centrado en los requisitos del cliente. Esta decisión también facilitó la colaboración entre los desarrolladores al proporcionar un entorno controlado y predecible para probar y validar el front end.
 
