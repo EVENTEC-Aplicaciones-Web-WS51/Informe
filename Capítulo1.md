@@ -60,6 +60,18 @@ Luis Alejandro, Zárate Gamarra - U20181H198
         </td>
         <td>Se formuló una solución para abordar la oportunidad identificada y se procedió a desarrollar los primeros cinco capítulos del proyecto, desde la Introducción hasta la Implementación del Producto, Validación y Despliegue. De esta manera, hemos completado la fase inicial del proyecto según la estructura indicada en este informe.</td>
     </tr>
+    <tr>
+        <td><strong>TB2</strong></td>
+        <td>8 de junio de 2024</td></td>
+        <td>
+            <ul>
+                <li>Luis Mario Gonzales Anaya</li>
+                <li>Jeremi Jose Antonio Fretel</li>
+                <li>Luis Alejandro Zárate Gamarra</li>
+</ul>
+        </td>
+        <td>Se replanteó la presentación para la interfaz del cliente siguiendo las pautas deifinidas en la retroalimentación. Asimismo, se desarrolló de forma parcial funciones del backend.</td>
+    </tr>
 </table>
 
 <h1 style="color: red;">STUDENT OUTCOME</h1>
