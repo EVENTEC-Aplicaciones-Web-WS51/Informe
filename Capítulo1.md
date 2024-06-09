@@ -28,9 +28,9 @@
 
 Luis Mario, Gonzales Anaya - U20201C585
 
-Godofredo, Quispe Tipo
+Godofredo, Quispe Tipo - U202120772
 
-Jeremi Jose, Antonio Fretel
+Jeremi Jose, Antonio Fretel - U202219022
 
 Luis Alejandro, Zárate Gamarra - U20181H198
 
