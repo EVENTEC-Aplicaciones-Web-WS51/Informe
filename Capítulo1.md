@@ -17,7 +17,7 @@
 
 ---
 
-## Informe de TB1
+## Informe de TB2
 ## Grupo 2
 
 **Startup:** Eventec
@@ -26,7 +26,7 @@
 
 **Relación de Integrantes:**
 
-Luis Mario, Gonzales Anaya
+Luis Mario, Gonzales Anaya - U20201C585
 
 Godofredo, Quispe Tipo
 
@@ -34,7 +34,7 @@ Jeremi Jose, Antonio Fretel
 
 Luis Alejandro, Zárate Gamarra - U20181H198
 
-**Abril - 2024** 
+**Junio - 2024** 
 
 </div>
 
