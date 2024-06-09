@@ -109,14 +109,16 @@ Luis Alejandro, Zárate Gamarra - U20181H198
                 <strong>TP</strong>
                     <p>
                     En el contexto del desarrollo de nuestro proyecto de ingeniería para una app que realiza la venta de entradas, fui el responsable de diseñar e intentar implementar la funcionalidad de detalles de un evento y la confirmación de dicho evento. Además, durante la comunicación de mis resultados y mi posible idea de implementación, me esforcé en su realización, además intente ser objetivo y claro para que el proceso de la interacción no sea complicado para el usuario.
-                <p><strong>TB2</strong></p>
-                <p>En el marco de la presente iniciativa, se me encomendó el liderazgo en la concepción e intento de materialización de los siguientes aspectos cruciales: la estructura de la base de datos y la definición de las APIs que la interfazan. Durante la presentación de los avances y propuestas correspondientes, hice especial hincapié en la objetividad y claridad, procurando simplificar el proceso de interacción para los usuarios finales.</p>
-                <li><strong>Luis Alejandro Zárate Gamarra</strong>
+                
+<li><strong>Luis Alejandro Zárate Gamarra</strong>
                   <p>
-                    <strong>TB2</strong>
-                    <p>En el marco de la presente iniciativa, se me encomendó el liderazgo en la concepción e intento de materialización de los siguientes aspectos cruciales: la estructura de la base de datos y la definición de las APIs que la interfazan. Durante la presentación de los avances y propuestas correspondientes, hice especial hincapié en la objetividad y claridad, procurando simplificar el proceso de interacción para los usuarios finales. </p>
+                    <strong>TB1</strong>
+                    <p>Fuí encargado del desarrollo inicial de la landing page con la implementación del maquetado de diseños para una óptima renderización de cada componente proyectando la implementación de la aplicación web</p>
                     <strong>TP</strong>
                     <p>Durante el proyecto, logré comunicar mis ideas y resultados de manera objetiva a diferentes audiencias. En las etapas de corrección, desarrollo, implementación y despliegue mantuve una comunicación efectiva con usuarios de diversas especialidades y niveles jerárquicos. Presenté los resultados de manera clara en secciones como los apartados de visualización principales, adaptándome a las necesidades de cada grupo. Este enfoque contribuyó al éxito general del proyecto.</p>
+
+<p><strong>TB2</strong></p>
+                <p>En el marco de la presente iniciativa, se me encomendó el liderazgo en la concepción e intento de materialización de los siguientes aspectos cruciales: la estructura de la base de datos y la definición de las APIs que la interfazan. Durante la presentación de los avances y propuestas correspondientes, hice especial hincapié en la objetividad y claridad, procurando simplificar el proceso de interacción para los usuarios finales.</p>
                   </p>
                 </li>   
             </ul>
@@ -141,6 +143,8 @@ Luis Alejandro, Zárate Gamarra - U20181H198
                     <p>De acuerdo al objetivo en las etapas de análisis de competidores y desarrollo de estrategias se mantuvo una presentación de la información óptima con los diversos usuarios involucrados en las etapas de investigación, análisis y estudio. Asimismo, se presentaron los resultados escritos de forma clara en las secciones de los empathy maps y as-is scenario mapping.</p>
                     <strong>TP</strong>
 <p>Durante el proyecto, me enfoqué en comunicar mis ideas y resultados de manera objetiva a diversas audiencias. Durante las etapas de corrección, desarrollo, implementación y despliegue, mantuve una comunicación efectiva con usuarios de diferentes especialidades y niveles jerárquicos. Destaqué los resultados de forma clara en secciones clave, como los apartados de visualización principales, adaptándome a las necesidades específicas de cada grupo. Este enfoque contribuyó significativamente al éxito general del proyecto.</p>
+<p><strong>TB2</strong></p>
+<p>En el contexto de esta iniciativa, fui encargado de liderar la concepción y la implementación tentativa de los siguientes aspectos fundamentales: la estructura de la base de datos y la definición de las APIs que la conectan. Durante la presentación de los avances y propuestas correspondientes, destaqué la importancia de la objetividad y claridad, con el fin de simplificar el proceso de interacción para los usuarios finales.</p>
 
 </p>
                 </li>
