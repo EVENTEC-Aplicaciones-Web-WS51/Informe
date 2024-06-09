@@ -98,7 +98,7 @@ Luis Alejandro, Zárate Gamarra - U20181H198
                     <p>
                     En el contexto del desarrollo de nuestro proyecto de ingeniería para una app que realiza la venta de entradas, fui el responsable de diseñar e intentar implementar la funcionalidad de detalles de un evento y la confirmación de dicho evento. Además, durante la comunicación de mis resultados y mi posible idea de implementación, me esforcé en su realización, además intente ser objetivo y claro para que el proceso de la interacción no sea complicado para el usuario.
                 <p><strong>TB2</strong></p>
-                <p>Durante este proyecto, tuve el privilegio de liderar la implementación de la base de datos utilizando Rider junto con C#, así como la creación de las APIs en Swagger. Mi responsabilidad principal fue garantizar que todas las etapas del desarrollo se llevaran a cabo de manera eficiente y conforme a los requisitos del proyecto.</p>
+                <p>En el marco de la presente iniciativa, se me encomendó el liderazgo en la concepción e intento de materialización de los siguientes aspectos cruciales: la estructura de la base de datos y la definición de las APIs que la interfazan. Durante la presentación de los avances y propuestas correspondientes, hice especial hincapié en la objetividad y claridad, procurando simplificar el proceso de interacción para los usuarios finales.</p>
                 <li><strong>Luis Alejandro Zárate Gamarra</strong>
                   <p>
                     <strong>TB2</strong>
