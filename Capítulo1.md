@@ -125,7 +125,7 @@ Luis Alejandro, Zárate Gamarra - U20181H198
                     <p>Durante el proyecto, logré comunicar mis ideas y resultados de manera objetiva a diferentes audiencias. En las etapas de corrección, desarrollo, implementación y despliegue mantuve una comunicación efectiva con usuarios de diversas especialidades y niveles jerárquicos. Presenté los resultados de manera clara en secciones como los apartados de visualización principales, adaptándome a las necesidades de cada grupo. Este enfoque contribuyó al éxito general del proyecto.</p>
 
 
-                  </p>
+</p>
                 </li>   
             </ul>
                 </li>    
