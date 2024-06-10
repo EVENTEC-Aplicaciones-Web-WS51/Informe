@@ -152,7 +152,7 @@ Luis Alejandro, Zárate Gamarra - U20181H198
                     <strong>TP</strong>
 <p>Durante el proyecto, me enfoqué en comunicar mis ideas y resultados de manera objetiva a diversas audiencias. Durante las etapas de corrección, desarrollo, implementación y despliegue, mantuve una comunicación efectiva con usuarios de diferentes especialidades y niveles jerárquicos. Destaqué los resultados de forma clara en secciones clave, como los apartados de visualización principales, adaptándome a las necesidades específicas de cada grupo. Este enfoque contribuyó significativamente al éxito general del proyecto.</p>
 <p><strong>TB2</strong></p>
-<p>En el contexto de esta iniciativa, fui encargado de liderar la concepción y la implementación tentativa de los siguientes aspectos fundamentales: la estructura de la base de datos y la definición de las APIs que la conectan. Durante la presentación de los avances y propuestas correspondientes, destaqué la importancia de la objetividad y claridad, con el fin de simplificar el proceso de interacción para los usuarios finales.</p>
+<p>Fui responsable de liderar la estructura de la base de datos y coordinar con el equipo. Redefiní las historias de usuario, las épicas y las historias técnicas. En las presentaciones de avances, me aseguré de mantener la objetividad y claridad para facilitar la interacción de los usuarios finales.</p>
 
 </p>
                 </li>
