@@ -1370,3 +1370,602 @@ En resumen, el proyecto de desarrollo del front end para la aplicación de venta
     <li>
         Lazcano Quintana, I., & Madariaga Ortuzar, A. (2016). El ocio nocturno de la juventud en España. En M.-A. Berthet, I. Lazcano Quintana, L. Lombi, A. Madariaga Ortuzar, A. Ramos Pérez, E. Rodríguez San Julián, A. Sanmartín Ortí, & S. J. Zoltán (Eds.), La marcha nocturna: ¿Un rito exclusivamente español? (pp. 34-95). ISBN 978-84-92454-33-4. https://dialnet.unirioja.es/descarga/articulo/6149003.pdf</li>
 </ul>
+<h3>5.2.4 Sprint 4</h3>
+
+<h3>5.2.3.1 Sprint Planning 4</h3>
+<table>
+    <tr>
+      <th>Sprint # </th>
+      <th>Sprint 4 </th>
+    </tr>
+    <tr>
+      <td><strong>Sprint Planning Background</strong></td>
+      <td></td>
+    </tr>
+    <tr>
+      <th>Date</th>
+      <th>2024/06/20</th>
+    </tr>
+    <tr>
+      <th>Time</th>
+      <th>18:00 PM</th>
+    </tr>
+    <tr>
+      <th>Location</th>
+      <th>Discord</th>
+    </tr>
+    <tr>
+      <th>Prepared by</th>
+      <th>Luis Alejandro, Zárate Gamarra</th>
+    </tr>
+    <tr>
+      <th>Attendess (to planning meeting)</th>
+      <th>Alessandro Joaquin Bernardo Eusebio - u202113640
+        Luis Alejandro, Zárate Gamarra	 - U20181H198
+        Carmelino Dueñas, Michael Stefano	 - U202212760 
+        Gonzales Anaya, Luis Mario	 - u20201C585
+        Piero Jhoynner, Muñoz Salcedo	 - u202224446
+   </th>
+    </tr>
+    <tr>
+      <th>Sprint 3 Review Summary</th>
+      <th>Correcciones realizadas y término del desarrollo de las tareas que corresponden al Sprint 3 </th>
+    </tr>
+    <tr>
+      <th>Sprint 3 Retrospective Summary</th>
+      <th>Nueva delimitacion de User Storys. Escaso tiempo para el desarrollo del backend de todos los US planteados.</th>
+    </tr>
+    <tr>
+      <th>Sprint Goal & User Stories</th>
+      <th></th>
+    </tr>
+    <tr>
+      <th>Sprint 3 Goal</th>
+      <th>Se definieron las Historias de Usuario a considerar, se completó el desarrollo del backend al 100%, se realizó una integración correcta entre el backend y el frontend, y se desplegó el producto final.</th>
+    </tr>
+    <tr>
+      <th>Sprint 3 Velocity</th>
+      <th>2 semanas </th>
+    </tr>
+    <tr>
+      <th>Sum of Story Point</th>
+      <th>5</th>
+    </tr>
+  </table>
+  <h3>5.2.4.2 Sprint Backlog 4</h3>
+<p>El principal objetivo de este Sprint es completar al 100% el backend de las US delimitadas para el correcto funcionamiento del producto.</p>
+<table>
+    <tr>
+     <th>Sprint #</th>
+     <th>Sprint 2</th>
+   </tr>
+    <tr>
+     <th>User Story</th>
+     <th></th>
+     <th>Work-Item/Task</th>
+   </tr>
+   <tr>
+     <th>Id</th>
+     <th>Title</th>
+     <th>Id</th>
+     <th>Title </th>
+     <th>Description</th>
+     <th>Estimation(Hours)</th>
+     <th>Assigned To</th>
+     <th>Status (To-do / InProcess / ToReview / Done)</th>
+   </tr>
+   <tr>
+     <th>US03</th>
+     <th>Iniciar sesión con una cuenta</th>
+     <th>W-01</th>
+     <th>Validar datos de usuarios en el backend </th>
+     <th>Validación del usuario sea tanto administrador o comprador para el ingreso a la plataforma.
+     <th>2 hours</th>
+     <th>Michael</th>
+     <th>Done</th>
+   </tr>
+   <tr>
+     <th>US08</th>
+     <th>Compra de boletos</th>
+     <th>W-02</th>
+     <th>Validar datos de pago en el backend</th>
+     <th>Validación de datos y pago en el backend para la compra de boletos</th>
+     <th>2 hours</th>
+     <th>Alessandro</th>
+     <th>Done</th>
+   </tr>
+   <tr>
+     <th>US18</th>
+     <th>Crear evento </th>
+     <th>W-03</th>
+     <th>Validar los datos de creación de eventos en el backend</th>
+     <th>Validación de datos en el backend para la creación de eventos
+     <th>2 hours</th>
+     <th>Luis</th>
+     <th>Done</th>
+   </tr>
+   <tr>
+     <th></th>
+     <th></th>
+     <th>W-04</th>
+     <th>Implementar IAM</th>
+     <th>Implementación de IAM para garantizar la seguridad y el control de acceso adecuado a los recursos
+     </th>
+     <th>2 hours</th>
+     <th>Michael</th>
+     <th>Done</th>
+   </tr>
+   <tr>
+     <th></th>
+     <th></th>
+     <th>W-05</th>
+     <th>Integrar y desplegar el Backend y Frontend</th>
+     <th>Desarrollo y Despliegue de Función Integrada (Backend y Frontend)
+     <th>2 hours</th>
+     <th>Luis</th>
+     <th>Done</th>
+   </tr>
+   <tr>
+     <th></th>
+     <th></th>
+     <th>W-06</th>
+     <th>Elaborar la presentación final</th>
+     <th>Elaboración de presentación para la expocición final
+    </th>
+     <th>1 hours</th>
+     <th>Piero</th>
+     <th>Done</th>
+   </tr>
+ </table>
+ 
+<h3>5.2.4.3 Development Evidence for Sprint Review</h3>
+<p>Los principales avances fueron la elaboración del backend en su totalidad, junto a los endpoints respectivos.</p>
+<table>
+    <tr>
+        <td>Repository</td>
+        <td>Branch</td>
+        <td>Commit Id</td>
+        <td>Commit Message</td>
+        <td>Commit Message Body</td>
+        <td>Commited on (Date)</td>
+    </tr>
+    <tr>
+        <td>WS52-Open-Source-Grupo-2-MyEvent-Frontend-Final</td>
+        <td>main</td>
+        <td>988836a83e60f0373c74a16d4e65b8f7764944f3</td>
+        <td>feat: Creación de la entidad user y sus archivos de configuración, junto a la integración del IAM</td>
+        <td>Creacion del backend de validacion de usuarios</td>
+        <td>Commits on Jun 25, 2024</td>
+    </tr>
+    <tr>
+        <td>WS52-Open-Source-Grupo-2-MyEvent-Frontend-Final</td>
+        <td>main</td>
+        <td>30e9d005088ed29841f60e3c9a68746360db39c5</td>
+        <td>feat: Creación de la entidad compra</td>
+        <td>Creacion del backend de validación de compra</td>
+        <td>Commits on Jun 25, 2024</td>
+    </tr>
+    <tr>
+        <td>WS52-Open-Source-Grupo-2-MyEvent-Backend</td>
+        <td>main</td>
+        <td>c33472470b7c2531d0b261984bac7ec876268814</td>
+        <td>feat: Creacion de la entidad event y sus archivos de configuracion</td>
+        <td>Creacion del backend de validación de eventos</td>
+        <td>Commits on Jun 25, 2024</td>
+    </tr>
+     <tr>
+        <td>WS52-Open-Source-Grupo-2-MyEvent-Frontend-Final</td>
+        <td>feat/security</td>
+        <td>c56452470b7c2531d0b207382bac7ec876254267</td>
+        <td>feat: register form working with backend endpoints</td>
+        <td>Creacion de la rama security para el authorized</td>
+        <td>Commits on Jun 26, 2024</td>
+    </tr>
+    <tr>
+        <td>WS52-Open-Source-Grupo-2-MyEvent-Frontend-Final</td>
+        <td>feature/backupmain</td>
+        <td>t6375920b7c2531d0b207382bac7ec746361937</td>
+        <td>feat:implementacion de backup</td>
+        <td>implementacion de backup</td>
+        <td>Commits on Jun 26, 2024</td>
+    </tr>
+</table>
+<h3>5.2.4.5 Execution Evidence for Sprint Review</h3>
+<h4>Prueba de Sign-Up y Sign-In</h4>
+<img src="./imagenes/evidence 1.jfif">
+<img src="./imagenes/evidence 2.jfif">
+<img src="./imagenes/evidence 2.jfif">
+<img src="./imagenes/evidence 4.jfif">
+<h4>Prueba de la proteccion de un endpoint por un authorized</h4>
+<img src="./imagenes/Evidence 5.jfif">
+<h3>5.2.4.6 Services Documentation Evidence for Sprint Review</h3>
+
+<table>
+  <thead>
+    <tr>
+      <th>Endpoint</th>
+      <th>Verbo HTTP</th>
+      <th>Enlace</th>
+      <th>Parámetros</th>
+      <th>Response</th>
+      <th>Explicación</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>/api/v1/authentication/sign-up</td>
+      <td>POST</td>
+      <td><a href="http://localhost:8080/api/v1/authentication/sign-up">http://localhost:8080/api/v1/authentication/sign-up</a></td>
+      <td>N/A</td>
+      <td>{"id": 4, "name": "user5name", "correo": "user5@gmail.com", "phone": "963693893", "dni": "04014004", "tipoDeCuenta": "user", "premium": "false", "roles": "ROLE_USER"}</td>
+      <td>Envia datos del usuario registrado</td>
+    </tr>
+    <tr>
+      <td>/api/v1/authentication/sign-in</td>
+      <td>POST</td>
+      <td><a href="http://localhost:8080/api/v1/authentication/sign-in">http://localhost:8080/api/v1/authentication/sign-in</a></td>
+      <td>N/A</td>
+      <td>{"id": 4, "correo": "user5@gmail.com", "token": "eyJhbGciOiJIUzM4NCJ9.eyJzdWIioiJ1c2VyNW5hbWUiLCJpYXQiOjE3MTk0Njc0NDIsImV4cCI6MTcyMDA3MjI0Mn0.4ZA1jmU1ZGw1k0-2hBBHPaLK9X5BWT8b29A89zkZaCVGPpdidZCPwWLL1GTp9Ig"}</td>
+      <td>Envia datos del usuario</td>
+    </tr>
+    <tr>
+      <td>/ap/v1/roles</td>
+      <td>GET</td>
+      <td><a href="http://localhost:8080/api/v1/roles">http://localhost:8080/api/v1/roles</a></td>
+      <td>N/A</td>
+      <td>N/A</td>
+      <td>Prueba de proteccion por un authorized</td>
+    </tr>
+  </tbody>
+</table>
+<h3>5.2.4.7 Software Deployment Evidence for Sprint Review</h3>
+<p>Logramos deployar con exito nuestra version final del backend integrado al frontend. Para Ello usamos phpMyAdmin.</p>
+<img src="./imagenes/deploy1.jpeg">
+<img src="./imagenes/deploy2.jpeg">
+<img src="./imagenes/deploy3.jpeg">
+<img src="./imagenes/deploy5.PNG">
+
+<h3>5.2.4.8 Team Collaboration Insights during Sprint</h3>
+<p>Para el trabajo colaborativo nos ayudamos de la herramienta Github y de las ramas y commits que se podían hacer. Además de los merge que unen toda nuestra parte del trabajo, tanto en el backend como en el frontend.</p>
+<img src="./imagenes/git 1.PNG">
+<img src="./imagenes/git 2.PNG">
+
+
+<h2>5.3 Validation Interviews</h2>
+    <h3>5.3.1. Diseño de Entrevistas.</h3>
+    <p><strong>Segmento Cliente:</strong></p>
+    <ol>
+        <li>¿Qué tan llamativa te resulta nuestra página web?</li>
+        <li>¿Qué tan fácil te resulta registrarte e iniciar sesión?</li>
+        <li>¿Qué te parece que te muestre al iniciar sesión una oferta para acceder a la versión premium de nuestra aplicación web?</li>
+        <li>¿Puedes encontrar toda la información necesaria sobre un evento al hacer clic en él?</li>
+        <li>¿Qué tan intuitivo te parece el proceso de selección y compra de entradas?</li>
+        <li>¿Has tenido alguna dificultad al intentar transferir entradas a otro usuario?</li>
+        <li>¿Encuentras algunas imperfecciones en nuestra plataforma?</li>
+    </ol>
+    <p><strong>Segmento Organizador:</strong></p>
+    <ol>
+        <li>
+            <p>¿Qué tan intuitivo y sencillo te resultó el proceso de creación de cuenta y gestión de tu perfil? ¿Hay alguna característica o funcionalidad que crees que falta o podría mejorarse?</p>
+        </li>
+        <li>
+            <p>¿Cómo fue tu experiencia al crear y personalizar un evento en la plataforma? ¿Encontraste todas las opciones que necesitabas para ofrecer una experiencia única a los asistentes?</p>
+        </li>
+        <li>
+            <p>¿Qué tan fácil te resultó acceder a la información detallada de los eventos y realizar la compra de entradas? ¿Hubo algún aspecto de la experiencia de compra que te gustaría que fuera diferente o mejorado?</p>
+        </li>
+        <li>
+            <p>¿Qué tipo de estadísticas y análisis te gustaría ver sobre la participación en tus eventos? ¿Cómo crees que esta información te ayudaría a evaluar el éxito de tus eventos y a mejorar la planificación futura?</p>
+        </li>
+        <li>
+            <p>¿Qué te parece la opción de que los clientes puedan revender sus entradas a eventos directamente en la plataforma? ¿Cómo crees que esta funcionalidad impactaría en la asistencia y el manejo de las entradas para los eventos que organizas?</p>
+        </li>
+    </ol>
+    
+  <h3>5.3.2 Registro de entrevistas</h3>
+
+<h3>Segmento Organizador de Eventos</h3>
+<h4>Nombre: Fernando André Cipriano</h4>
+<h4>Entrevistador: Piero Jhoynner Muñoz Salcedo</h4>
+<details>
+  <summary>Detalles:</summary>
+    <ul>
+    <li>Género: Masculino</li>
+    <li>Edad: 25 años</li>
+    <li>Ubicación: Cercado de Lima</li>
+  </ul>
+</details><br>
+
+  <table style="border: 1px solid gray;">
+    <tr>
+        <td><img src="./imagenes/foto entrevista A.PNG" alt="Descripción de la imagen"></td>
+    </tr>
+    <tr><td class="justificado">El entrevistado, quien es organizador de eventos, navegó en nuestra plataforma web y de momento nos comenta que le parecio util e intuitivo el inicio de sesion, y facil al momento de registrarse, afirma que podria mejorar añadiendo informacion en su perfil con relacion al historial de eventos pasados. Nos cuenta que tuvo una buena experiencia al momento de crear un evento y considera fundamental las invitaciones por medio de redes sociales. Ademas, considera que la compra de entradas son faciles y estan bien implementadas y lo unico que le gustaria añadir es el guardado de informacion de pago para mayor facilidad al momento de comprar entradas. Por otro lado, le gustaria que hubieran estadisticas detallas de la participacion e interaccion de las personas que asisten a los eventos para que así pueda tomar deciciones mas estrategicas para futuras fechas. Nos indica que la opcion de revender entradas lo considera muy bueno y no cree que el impacto que tiene fuese negativo, ya que esto aseguraria que el evento tenga mas asistentes, sin desperdiciar alguna entrada.
+</td></tr>
+    <tr><td>Link de la entrevista: <a href="https://www.youtube.com/watch?v=zWS4qhYYFmY">https://www.youtube.com/watch?v=zWS4qhYYFmY</a></td></tr>
+  </table>  
+
+<h4>Nombre: Rodrigo Quispe</h4>
+<h4>Entrevistador: Michael Stefano Carmelino Dueñas</h4>
+<details>
+  <summary>Detalles:</summary>
+    <ul>
+    <li>Género: Masculino</li>
+    <li>Edad: 20 años</li>
+    <li>Ubicación: Cercado de Lima</li>
+  </ul>
+</details><br>
+
+  <table style="border: 1px solid gray;">
+    <tr>
+        <td><img src="./imagenes/rodrigo.png" alt="Descripción de la imagen"></td>
+    </tr>
+    <tr><td class="justificado"> Rodrigo ha expresado una opinión favorable sobre la plataforma, destacando su intuición y facilidad de uso, así como la variedad de opciones disponibles para crear eventos únicos. Sin embargo, también ha señalado áreas de mejora, como la visualización de estadísticas relacionadas con la participación en los eventos. Considera que contar con datos más detallados y análisis en tiempo real podría ofrecer a los organizadores una mejor perspectiva sobre el rendimiento de sus eventos y la satisfacción de los asistentes.
+
+Además, Rodrigo ha mencionado la importancia de incorporar una función de reventa de entradas en la plataforma. Esta característica podría impactar positivamente en la gestión de entradas para los eventos organizados, al permitir a los usuarios revender o transferir sus entradas de manera segura y conveniente. Rodrigo sugiere que esta opción podría incrementar la asistencia a los eventos al facilitar a los asistentes la posibilidad de compartir sus entradas con amigos o revenderlas en caso de imprevistos. En resumen, Rodrigo valora la plataforma pero considera que mejoras en estos aspectos podrían potenciar su utilidad para los organizadores.
+</td></tr>
+    <tr><td>Link de la entrevista: <a href="https://www.youtube.com/watch?v=fdC4Wm_SxVw">https://www.youtube.com/watch?v=fdC4Wm_SxVw</a></td></tr>
+  </table>  
+
+  
+<h4>Segmento Organizador de eventos</h4>
+    <h4>Nombre: Joaquin Paredes</h4>
+    <img src="./imagenes/VI1.png" width="400" height="200">
+    <p><strong>Link del video: </strong> https://upcedupe-my.sharepoint.com/:v:/g/personal/u202113640_upc_edu_pe/EYxoxcwfW-xGstj_LsHO4OAB-mEsaPiV-p0wKHfwKRk-8w?e=ofvHp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D</p>
+    <p>Joaquin como organizador de eventos esta satisfecho con MyEvent, encontrando la plataforma fácil de usar y efectiva. Las sugerencias para mejoras incluyen más opciones de personalización, plantillas prediseñadas para eventos y una opción de 'wishlist' para la compra de entradas. La reventa de entradas es vista como una funcionalidad positiva que puede mejorar la asistencia y la gestión de eventos.</p>
+
+
+   <h3>Segmento Comprador de Entradas</h3>
+<h4>Nombre: Nickol Ariana Sandoval</h4>
+<h4>Entrevistador: Piero Jhoynner Muñoz Salcedo</h4>
+<details>
+  <summary>Detalles:</summary>
+    <ul>
+    <li>Género: Femenino</li>
+    <li>Edad: 22 años</li>
+    <li>Ubicación: Cercado de Lima</li>
+  </ul>
+</details><br>
+
+  <table style="border: 1px solid gray;">
+    <tr>
+        <td><img src="./imagenes/entrevista B.PNG" alt="Descripción de la imagen"></td>
+    </tr>
+    <tr><td class="justificado">La entrevistada indica que la plataforma le parecio fabulosa e intuitiva, ademas detallo que el modo de registrarse le parece muy seguro ya que le piden el DNI como medio de registro, ademas le parecio exelente la vista de adquirir membresia premium, ya que los descuentos hacen llamativo a la plataforma web. Indica que al hacer click en un evento le permite ver toda la informacion de esta para convenserse de su compra, ademas nos comenta que le parece facil la adquisicion entradas, ya que los datos que piden son muy pertinentes. Comenta que nunca tuvo la oportunidad de revender una entrada, pero a partir de la experiencia en la plataforma le transmite mas seguridad que hacerlo por sus redes u otros medios. Lo unico que detalla como una imperfeccion es que se coloquen lo precios generales directamente en cada imagen de evento en la pagina de inicio, ya que esto hace que como comprador de entradas se animen por comprar al ver el precio de la entrada pensando que es una vip pero al ingresar a los detalles del evento solo sea para general.
+        
+</td></tr>
+    <tr><td>Link de la entrevista: <a href="https://youtu.be/pt136hPLp-A">https://youtu.be/pt136hPLp-A</a></td></tr>
+  </table>
+  <h4>Nombre: Jordy Muñoz Salcedo</h4>
+<h4>Entrevistador: Piero Jhoynner Muñoz Salcedo</h4>
+<details>
+  <summary>Detalles:</summary>
+    <ul>
+    <li>Género: Masculino</li>
+    <li>Edad: 24 años</li>
+    <li>Ubicación: Cercado de Lima</li>
+  </ul>
+</details><br>
+
+  <table style="border: 1px solid gray;">
+    <tr>
+        <td><img src="./imagenes/entrevista 6.PNG" alt="Descripción de la imagen"></td>
+    </tr>
+    <tr><td class="justificado">El entrevistado comenta que la plataforma le parece algo innovador y con exelente diseño, tambien comenta que le resulta facil iniciar sesion como cualquier otra pagina. Ademas, indica que le parece bien que le informen sobre los beneficios adicionales por subscripcion. Comenta que puede acceder intuitivamente a la informacion y a la compra relacionado al evento que desea asistir. Nos cuenta que no ha pasado por la necesidad de transferir alguna de sus entradas pero en caso suceda quisiera que fuese de la manera mas segura. Por ultimo, comentó que si bien no encuentra fallas en la plataforma, le gustaría que tenga un modo nocturno u otro color de fondo.
+        
+</td></tr>
+    <tr><td>Link de la entrevista: <a href="https://youtu.be/HSkimzoH1ag">https://youtu.be/HSkimzoH1ag</a></td></tr>
+  </table>
+
+
+  <h4>Nombre: Ian Maqcavilca</h4>
+<h4>Entrevistador: Michael Stefano Carmelino Dueñas</h4>
+<details>
+  <summary>Detalles:</summary>
+    <ul>
+    <li>Género: Masculino</li>
+    <li>Edad: 20 años</li>
+    <li>Ubicación: San Juan de Miraflores</li>
+  </ul>
+</details><br>
+
+  <table style="border: 1px solid gray;">
+    <tr>
+        <td><img src="./imagenes/ianentre.png" alt="Descripción de la imagen"></td>
+    </tr>
+    <tr><td class="justificado">En la entrevista sale que le gusta nuestra plataforma, que le gusta la paleta de colores, la facilidad y claridad en el proceso de registro, inicio de sesión y compra de entradas para mejorar la experiencia del usuario. Nos sugiere implementar una opción de modo oscuro en la plataforma como mejora adicional para adaptarse a las preferencias de los usuarios.
+        
+</td></tr>
+    <tr><td>Link de la entrevista: <a href="https://www.youtube.com/watch?v=waWT8DyTAdw">https://www.youtube.com/watch?v=waWT8DyTAdw</a></td></tr>
+  </table>
+
+
+<h3>5.3.3 Evaluaciones según heurísticas</h3>
+</head>
+<body>
+<h4 align="center"><b>UX Heuristics & Principles Evaluation</b></h4>
+<h4 align="center"><b>Usability – Inclusive Design – Information Architecture</b></h4>
+<h5><b>CARRERA:</b> Ingeniería de Software</h5>
+<h5><b>CURSO:</b> Desarrollo de Aplicaciones Open Source</h5>
+<h5><b>SECCIÓN:</b> WS52</h5>
+<h5><b>PROFESORES:</b> Todos</h5>
+<h5><b>AUDITOR:</b> Grupo 2</h5>
+<h5><b>CLIENTE(S):</b> Gonzales Anaya, Luis Mario</h5>
+<h4>SITE o APP A EVALUAR:</b></h4>
+    <p>MyEvent</p>
+<h4>TAREAS A EVALUAR:</h5>
+<ol>
+  <li>Creación de una cuenta</li>
+  <li>Inicio de sesión</li>
+  <li>Visualización de opciones para usuarios no premium</li>
+  <li>Visualización de perfil de usuario</li>
+  <li>Gestión de sesión y contraseña</li>
+  <li>Renovación de la suscripción</li>
+  <li>Notificación de cambio de horarios de eventos</li>
+  <li>Atención prioritaria en el servicio al cliente</li>
+  <li>Recomendación personalizada sobre eventos</li>
+</ol>
+<h5>No están incluidas en esta versión de la evaluación las siguientes tareas:</h3>
+<ol>
+  <li>Detalles de los eventos</li>
+  <li>Compra de entradas</li>
+  <li>Reventa de las entradas</li>
+  <li>Compra de entradas revendidas</li>
+  <li>Creación de eventos</li>
+  <li>Gestión de entradas</li>
+  <li>Mandado de invitaciones</li>
+  <li>Publicación de eventos</li>
+</ol>
+<h4>ESCALA DE SEVERIDAD:</h4>
+<p>Los errores serán puntuados tomando en cuenta la siguiente escala de severidad:</p>
+<table>
+  <tr>
+    <th>Nivel</th>
+    <th>Descripción</th>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>Problema superficial: puede ser fácilmente superador por el usuario u ocurre con muy poca frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiempo.</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>Problema menor: puede ocurrir un poco más frecuentemente o es un poco más difícil de superar para el usuario. Se le debería asignar una prioridad baja resolverlo de cara al siguiente reléase.</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlos. Es importante que sean corregidos y se les debe asignar una prioridad alta.</td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>Problema muy grave: un error de gran impacto que impide al usuario continuar con el uso de la herramienta. Es imperativo que sea corregido antes del lanzamiento.</td>
+  </tr>
+</table>
+<h4>TABLA RESUMEN:</h4>
+<table>
+  <tr>
+    <th>#</th>
+    <th>Problema</th>
+    <th>Escala de severidad</th>
+    <th>Heurística/Principio violada(o)</th>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>Opción de “recordarme” en la zona de registro</td>
+    <td>1</td>
+    <td>Usability: Consistencia y estándares</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>Las opciones Register y Login permanecen luego de iniciar sesión</td>
+    <td>1</td>
+    <td>Usability: Feedback y estado del sistema</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>No hay zona para actualizar contraseña</td>
+    <td>1</td>
+    <td>Usability: Control y libertad del usuario</td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>Las opciones de Cancelar y Renovar suscripción aparecen incluso cuando no tienes ninguna.</td>
+    <td>1</td>
+    <td>Usability: Consistencia y estándares</td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td>La zona de compra de suscripción no acepta números de tarjeta de débito/crédito</td>
+    <td>4</td>
+    <td>Usability: Flexibilidad y eficiencia de uso</td>
+  </tr>
+  <tr>
+    <td>6</td>
+    <td>La zona de renovación de suscripción no acepta números de tarjeta de débito/crédito</td>
+    <td>4</td>
+    <td>Usability: Flexibilidad y eficiencia de uso</td>
+  </tr>
+</table>
+    
+<h4>DESCRIPCIÓN DE PROBLEMAS:</h4>
+<h5>PROBLEMA #1: Opción de “recordarme” en la zona de registro</h5>
+<p>Severidad: 1</p>
+<p>Heurística violada: Usabilidad - Consistencia y estándares</p>
+<p>Problema:<br>
+La opción de “recordarme” no sigue los estándares comunes de usabilidad en la zona de registro, lo que puede causar confusión en los usuarios que están acostumbrados a ver esta opción en la zona de inicio de sesión. Esto afecta la consistencia del diseño de la interfaz y puede reducir la confianza del usuario en el sistema.</p>
+<img src="./imagenes/sprint3/Registro.PNG">
+<p>Recomendación:<br>
+Mover la opción de “recordarme” a la zona de inicio de sesión, donde los usuarios esperan encontrarla, asegurando así una experiencia más coherente y alineada con las prácticas estándar de diseño de interfaces de usuario.</p>
+
+<h5>PROBLEMA #2: Las opciones register y login permanecen luego de iniciar sesión</h5>
+<p>Severidad: 1</p>
+<p>Heurística violada: Usabilidad - Feedback y estado del sistema</p>
+<p>Problema:<br>
+Una vez que el usuario ha iniciado sesión, las opciones para "register" y "login" siguen apareciendo en la interfaz. Esto puede causar confusión, ya que el sistema no proporciona un feedback claro del estado actual del usuario. Los usuarios pueden no estar seguros si han iniciado sesión correctamente.</p>
+<img src="./imagenes/sprint3/RegisterLogin.PNG">
+<p>Recomendación:<br>
+Ocultar las opciones de "register" y "login" después de que el usuario haya iniciado sesión y, en su lugar, mostrar opciones relevantes como "perfil" o "cerrar sesión" para reflejar correctamente el estado del sistema.</p>
+
+<h5>PROBLEMA #3: No hay zona para actualizar contraseña</h5>
+<p>Severidad: 1</p>
+<p>Heurística violada: Usabilidad - Control y libertad del usuario</p>
+<p>Problema:<br>
+No se proporciona una opción para que los usuarios actualicen su contraseña, lo que limita su capacidad para gestionar su información de seguridad. Esto es crucial para la administración de la cuenta y la seguridad personal.</p>
+<img src="./imagenes/sprint3/Contraseña.PNG">
+<p>Recomendación:<br>
+Agregar una sección en la configuración de la cuenta donde los usuarios puedan actualizar su contraseña de manera fácil y segura, proporcionando instrucciones claras y feedback durante el proceso.</p>
+
+<h5>PROBLEMA #4: La opción de cancelar y renovar suscripción aparece incluso cuando no tienes ninguna</h5>
+<p>Severidad: 1</p>
+<p>Heurística violada: Usabilidad - Consistencia y estándares</p>
+<p>Problema:<br>
+La opción para cancelar y renovar suscripción está visible incluso para usuarios que no tienen una suscripción activa. Esto puede causar confusión y lleva a una experiencia inconsistente.</p>
+<img src="./imagenes/sprint3/Contraseña.PNG">
+<p>Recomendación:<br>
+Modificar la interfaz para que la opción de cancelar y renovar suscripción solo sea visible para usuarios con suscripciones activas, mejorando así la claridad y relevancia de las opciones presentadas.</p>
+
+<h5>PROBLEMA #5: La zona de compra de suscripción no acepta números de tarjeta de débito/crédito</h5>
+<p>Severidad: 4</p>
+<p>Heurística violada: Usabilidad - Flexibilidad y eficiencia de uso</p>
+<p>Problema:<br>
+Aunque existe una zona para ingresar números de tarjeta de débito/crédito, al intentar completar la compra, se muestra un cuadro de diálogo indicando que el número de tarjeta es incorrecto. Esto frustra a los usuarios y les impide finalizar la compra, afectando la experiencia de usuario y las conversiones.</p>
+<img src="./imagenes/sprint3/Compra.PNG">
+<p>Recomendación:<br>
+Revisar y corregir el proceso de validación de números de tarjeta para asegurarse de que acepta correctamente tarjetas de débito y crédito válidas. Realizar pruebas exhaustivas para garantizar que el sistema reconozca una variedad de tarjetas y proporcionar mensajes de error claros y específicos si hay problemas con los datos ingresados.</p>
+
+<h5>PROBLEMA #6: La zona de renovación de suscripción no acepta números de tarjeta de débito/crédito</h5>
+<p>Severidad: 4</p>
+<p>Heurística violada: Usabilidad - Flexibilidad y eficiencia de uso</p>
+<p>Problema:<br>
+Similar al problema de compra de suscripción, en la zona de renovación de suscripción, aunque hay una opción para ingresar números de tarjeta de débito/crédito, el sistema muestra un cuadro de diálogo indicando que el número de tarjeta es incorrecto al intentar renovar. Esto dificulta la renovación de suscripciones y puede resultar en la pérdida de suscriptores.</p>
+<img src="./imagenes/sprint3/Compra.PNG">
+<p>Recomendación:<br>
+Corregir el proceso de validación de números de tarjeta en la zona de renovación de suscripción, asegurándose de que se acepten correctamente tarjetas de débito y crédito válidas. Realizar pruebas para asegurar la funcionalidad y proporcionar mensajes de error claros y útiles para guiar a los usuarios en caso de problemas.</p>
+<h3>5.4 Video About-the-Product</h3>
+        <td><img src="./imagenes/about the product.PNG" alt="Descripción de la imagen"></td>
+    <td>Link del video: <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20181h198_upc_edu_pe/EfGWqHFjsiZHuqV94bJdDZgB1WyCLRTdDVQchXc2HKRuLA?e=wOvQ13&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D">https://upcedupe-my.sharepoint.com/:v:/g/personal/u20181h198_upc_edu_pe/EfGWqHFjsiZHuqV94bJdDZgB1WyCLRTdDVQchXc2HKRuLA?e=wOvQ13&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D</a></td>
+<h1>CONCLUSIONES</h1>
+<p>Durante el desarrollo del front end para la aplicación de venta de entradas de eventos "MyEvent", se demostró un compromiso sólido con la implementación eficiente y efectiva de soluciones utilizando tecnología Angular. La elección de utilizar fake APIs a través de db.json para simular el comportamiento de las APIs reales fue una estrategia inteligente que permitió un desarrollo ágil y centrado en los requisitos del cliente. Esta decisión también facilitó la colaboración entre los desarrolladores al proporcionar un entorno controlado y predecible para probar y validar el front end.
+
+El uso de Angular como framework de desarrollo web permitió la creación de una interfaz de usuario dinámica y receptiva, brindando a los usuarios una experiencia fluida al navegar por la aplicación y comprar entradas para eventos. Además, la implementación de fake APIs garantizó que el equipo de desarrollo pudiera trabajar de manera independiente en el front end sin depender de servicios externos, lo que aceleró el proceso de desarrollo y facilitó la iteración y mejora continua del producto.
+
+En resumen, el proyecto de desarrollo del front end para la aplicación de venta de entradas de eventos "MyEvent" fue un éxito gracias a la combinación de tecnología Angular y la implementación inteligente de fake APIs. Esta experiencia no solo demostró la capacidad del equipo para adaptarse y aprovechar las herramientas disponibles de manera efectiva, sino que también sentó las bases para futuros proyectos de desarrollo web con un enfoque similar.
+
+En el mismo tenor de éxito que se logró en el desarrollo del front end, la creación e implementación del backend para la aplicación "MyEvent" fue igualmente notable. Utilizando JPA (Java Persistence API), se estableció una base de datos robusta y eficiente que gestionó de manera efectiva la persistencia de datos y las operaciones CRUD (Crear, Leer, Actualizar, Borrar). El uso de JPA no solo facilitó la implementación de características críticas, como la gestión de usuarios y el seguimiento de eventos, sino que también aseguró que la aplicación fuera escalable y preparada para futuras expansiones.
+
+En conclusion, el equipo demostró una exelente comunicación y coordialidad durante lo largo del proyecto, en la documentación se vió reflejado la objetividad y claridad, tanto como en el despliegue del sistema de gestion de identidades y accesos(IAM) para las funcionalidades de login y sign up, como en la implementación del backend y su integración con el frontend. </p>
+<h1>Video About-the-Team</h1>
+<p>En resumen, el grupo evidenció una adecuada coordialidad y comunicación conjunta, lo cual permitió llegar exitosamente a la etapa final del proyecto a pesar de contar con inconvenientes por incumplimientos por parte de algunos integrantes. Ademas, un aspecto a tomar en cuenta es la falta de consulta por parte de los integrantes del equipo en cuanto a los frameworks y diversas herramientas que se usaron durante el desarrollo del proyecto, el cual llevo al replanteo del proyecto de cara a la entrega final. Sin embargo, esto sin duda nos sirvirá como aprendizaje para entregas futuras. </p>
+ <td><img src="./imagenes/about-the-team.PNG" alt="Descripción de la imagen"></td>
+    <td>Link del video: <a href="https://www.youtube.com/watch?v=k4VuP4pdqqo">https://www.youtube.com/watch?v=k4VuP4pdqqo</a></td>
+<h1>ANEXOS</h1>
+<ul>
+    <li>Marches Parra, J., & Granados Romero, A. (2022). Plataforma de compra y venta de entradas para eventos integrada en la tecnología blockchain. [Trabajo final de grado, Grau en Enginyeria Informàtica (Pla 2018), Escola Politècnica Superior d'Enginyeria de Vilanova i la Geltrú]. Universitat Politècnica de Catalunya. http://hdl.handle.net/2117/378090</li>
+    <li>
+        Lazcano Quintana, I., & Madariaga Ortuzar, A. (2016). El ocio nocturno de la juventud en España. En M.-A. Berthet, I. Lazcano Quintana, L. Lombi, A. Madariaga Ortuzar, A. Ramos Pérez, E. Rodríguez San Julián, A. Sanmartín Ortí, & S. J. Zoltán (Eds.), La marcha nocturna: ¿Un rito exclusivamente español? (pp. 34-95). ISBN 978-84-92454-33-4. https://dialnet.unirioja.es/descarga/articulo/6149003.pdf</li>
+</ul>
+
+
+
+
+
+
