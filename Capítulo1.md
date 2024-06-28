@@ -17,7 +17,7 @@
 
 ---
 
-## Informe de TB2
+## Informe de TF
 ## Grupo 2
 
 **Startup:** Eventec
@@ -26,11 +26,6 @@
 
 **Relación de Integrantes:**
 
-Luis Mario, Gonzales Anaya - U20201C585
-
-Godofredo, Quispe Tipo - U202120772
-
-Jeremi Jose, Antonio Fretel - U202219022
 
 Luis Alejandro, Zárate Gamarra - U20181H198
 
@@ -67,6 +62,16 @@ Luis Alejandro, Zárate Gamarra - U20181H198
             <ul>
                 <li>Luis Mario Gonzales Anaya</li>
                 <li>Jeremi Jose Antonio Fretel</li>
+                <li>Luis Alejandro Zárate Gamarra</li>
+</ul>
+        </td>
+        <td>Se replanteó la presentación para la interfaz del cliente siguiendo las pautas deifinidas en la retroalimentación. Asimismo, se desarrolló de forma parcial funciones del backend.</td>
+    </tr>
+    <tr>
+        <td><strong>TF</strong></td>
+        <td>8 de junio de 2024</td></td>
+        <td>
+            <ul>
                 <li>Luis Alejandro Zárate Gamarra</li>
 </ul>
         </td>
@@ -126,6 +131,9 @@ Luis Alejandro, Zárate Gamarra - U20181H198
 
 <p><strong>TB2</strong></p>
 <p>Se me encargó liderar la estructura de la base de datos y coordinar con el equipo. Replanteé las historias de usuario, épicas e historias técnicas. Durante la presentación de avances, me enfoqué en la objetividad y claridad para simplificar la interacción de los usuarios finales.</p>
+<p><strong>TF</strong></p>
+<p>Ralicé la implementación del backend y frontend de la aplicación de forma integra. Asimismo, intenté configurar el despliegue a tiempo para su consumo por el lado del cliente. Teniendo como principal problema la carencia de creditos para realizar el despliegue en Azure</p>
+
 
 </p>
                 </li>   
@@ -153,6 +161,8 @@ Luis Alejandro, Zárate Gamarra - U20181H198
 <p>Durante el proyecto, me enfoqué en comunicar mis ideas y resultados de manera objetiva a diversas audiencias. Durante las etapas de corrección, desarrollo, implementación y despliegue, mantuve una comunicación efectiva con usuarios de diferentes especialidades y niveles jerárquicos. Destaqué los resultados de forma clara en secciones clave, como los apartados de visualización principales, adaptándome a las necesidades específicas de cada grupo. Este enfoque contribuyó significativamente al éxito general del proyecto.</p>
 <p><strong>TB2</strong></p>
 <p>Fui responsable de liderar la estructura de la base de datos y coordinar con el equipo. Redefiní las historias de usuario, las épicas y las historias técnicas. En las presentaciones de avances, me aseguré de mantener la objetividad y claridad para facilitar la interacción de los usuarios finales.</p>
+<p><strong>TF</strong></p>
+<p>Fui responsable de encargarme de la totalidad del desarrollo del sprint 4 teniendo que replantear la ideal del proyecto debio a dificultades internas. Sin embargo, se resalta el consumo de la aplicacion por el lado del forntend desplegado localmente</p>
 
 </p>
                 </li>
