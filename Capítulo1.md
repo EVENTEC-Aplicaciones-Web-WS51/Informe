@@ -69,7 +69,7 @@ Luis Alejandro, Zárate Gamarra - U20181H198
     </tr>
     <tr>
         <td><strong>TF</strong></td>
-        <td>8 de junio de 2024</td></td>
+        <td>28 de junio de 2024</td></td>
         <td>
             <ul>
                 <li>Luis Alejandro Zárate Gamarra</li>
